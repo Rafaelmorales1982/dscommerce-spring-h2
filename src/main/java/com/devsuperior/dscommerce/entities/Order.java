@@ -33,7 +33,6 @@ public class Order {
 	@Column(columnDefinition = "TIMESTAMP WITHOUT TIME ZONE")
 	private Instant moment;
 	
-	@Enumerated(EnumType.STRING) // Anotação para persistir o enum como string
 	private OrderStatus status;//enum vem da classe OrderStatus
 	
 	//relacionamento 1 usuário pode ter vário * pedidos
