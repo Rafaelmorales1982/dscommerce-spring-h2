@@ -4,13 +4,17 @@ import java.time.Instant;
 
 import com.devsuperior.dscommerce.enums.OrderStatus;
 
+import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
+import jakarta.persistence.EnumType;
+import jakarta.persistence.Enumerated;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
+import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
 
 @Entity
@@ -24,6 +28,8 @@ public class Order {
 	
 	@Column(columnDefinition = "TIMESTAMP WITHOUT TIME ZONE")
 	private Instant moment;
+	
+	@Enumerated(EnumType.STRING) // Anotação para persistir o enum como string
 	private OrderStatus status;//enum vem da classe OrderStatus
 	
 	//relacionamento 1 usuário pode ter vário * pedidos
@@ -33,6 +39,22 @@ public class Order {
 	@JoinColumn(name = "client_id")//esse cara vai fica como uma chave estrangeira referencia da tabela User(client)
 	private User client;//ralacionando com a classe User com atributo client
 	
+	@OneToOne(mappedBy = "order", cascade = CascadeType.ALL)
+	private Payment payment;
+	
+	
+	
+
+	public Payment getPayment() {
+		return payment;
+	}
+
+
+	public void setPayment(Payment payment) {
+		this.payment = payment;
+	}
+
+
 	//construtor vazio
 	public Order() {
 		
@@ -40,12 +62,13 @@ public class Order {
 	
 	
 	//construtor
-	public Order(Long id, Instant moment, OrderStatus status, User client) {
+	public Order(Long id, Instant moment, OrderStatus status, User client, Payment payment) {
 	
 		this.id = id;
 		this.moment = moment;
 		this.status = status;
 		this.client = client;
+		this.payment = payment;
 	}
 
 

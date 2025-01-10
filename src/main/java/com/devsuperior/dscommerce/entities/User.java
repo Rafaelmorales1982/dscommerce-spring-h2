@@ -52,6 +52,12 @@ public class User {
 	}
 
 	
+	
+	public User(List<Order> orders) {
+		
+		this.orders = orders;
+	}
+
 	//Getters and Setters
 	public Long getId() {
 		return id;
