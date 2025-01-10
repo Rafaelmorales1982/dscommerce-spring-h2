@@ -1,0 +1,1470 @@
+ 2023-10-24 06:55:25,677-INFO-Star folder analysis: D:\Nélio Alves Dev Superior
+ 2023-10-24 06:55:26,122-INFO-Find for video with extension: .mp4, .ts, .mpg, .mpeg, .avi, .mkv, .flv, .3gp, .rmvb, .webm, .vob, .ogv, .rrc, .gifv, .mng, .mov, .qt, .wmv, .yuv, .rm, .asf, .amv, .m4p, .m4v, .mp2, .mpe, .mpv, .m4v, .svi, .3g2, .mxf, .roq, .nsv, .f4v, .f4p, .f4a, .f4b
+ 2023-10-24 06:55:26,179-INFO-___Unselected: 01 Introdução à linguagem Java (slides).pdf
+ 2023-10-24 06:55:26,180-INFO-___Unselected: 02 Estrutura sequencial (exercícios).pdf
+ 2023-10-24 06:55:26,180-INFO-___Unselected: 02 Estrutura sequencial (slides).pdf
+ 2023-10-24 06:55:26,180-INFO-___Unselected: 03 Estrutura condicional (exercícios).pdf
+ 2023-10-24 06:55:26,180-INFO-___Unselected: 03 Estrutura condicional (slides).pdf
+ 2023-10-24 06:55:26,181-INFO-___Unselected: 04 Estruturas repetitivas (exercícios).pdf
+ 2023-10-24 06:55:26,181-INFO-___Unselected: 04 Estruturas repetitivas (slides).pdf
+ 2023-10-24 06:55:26,181-INFO-___Unselected: 05 Outros tópicos básicos sobre Java.pdf
+ 2023-10-24 06:55:26,181-INFO-___Unselected: 06 Classes, atributos, métodos, static (exercícios).pdf
+ 2023-10-24 06:55:26,181-INFO-___Unselected: 06 Classes, atributos, métodos, static (slides).pdf
+ 2023-10-24 06:55:26,181-INFO-___Unselected: 07 Construtores, this, sobrecarga, encapsulamento.pdf
+ 2023-10-24 06:55:26,181-INFO-___Unselected: 08 Memória, vetores, listas (exercícios).pdf
+ 2023-10-24 06:55:26,181-INFO-___Unselected: 08 Memória, vetores, listas (slides).pdf
+ 2023-10-24 06:55:26,181-INFO-___Unselected: 09 Matrizes (exercícios).pdf
+ 2023-10-24 06:55:26,182-INFO-___Unselected: 09 Matrizes (slides).pdf
+ 2023-10-24 06:55:26,182-INFO-___Unselected: 10 Trabalhando com datas em Java.pdf
+ 2023-10-24 06:55:26,182-INFO-___Unselected: 11 Enumerações e Composição.pdf
+ 2023-10-24 06:55:26,183-INFO-___Unselected: 12 Herança e Polimorfismo.pdf
+ 2023-10-24 06:55:26,183-INFO-Selected file: 1. Boas-vindas geral.ts
+ 2023-10-24 06:55:26,183-INFO-Selected file: 2. Visão geral do capítulo.ts
+ 2023-10-24 06:55:26,183-INFO-Selected file: 3. Versão do Java.ts
+ 2023-10-24 06:55:26,184-INFO-Selected file: 4. Histórico e edições do Java.ts
+ 2023-10-24 06:55:26,184-INFO-Selected file: 5. JVM - Máquina Virtual do Java.ts
+ 2023-10-24 06:55:26,184-INFO-Selected file: 6. Estrutura de uma aplicação Java.ts
+ 2023-10-24 06:55:26,184-INFO-Selected file: 7. Instalar Java JDK no Windows.ts
+ 2023-10-24 06:55:26,185-INFO-Selected file: 8. Instalar Java JDK no Linux e Mac.ts
+ 2023-10-24 06:55:26,185-INFO-Selected file: 9. Instalar o Eclipse.ts
+ 2023-10-24 06:55:26,185-INFO-Selected file: 10. Primeiro programa Java e Eclipse.ts
+ 2023-10-24 06:55:26,186-INFO-Selected file: 1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:26,186-INFO-Selected file: 2. Expressões aritméticas.ts
+ 2023-10-24 06:55:26,187-INFO-Selected file: 3. Variáveis e tipos básicos de Java.ts
+ 2023-10-24 06:55:26,187-INFO-Selected file: 4. As três operações básicas de programação.ts
+ 2023-10-24 06:55:26,187-INFO-Selected file: 5. Saída de dados em Java.ts
+ 2023-10-24 06:55:26,187-INFO-Selected file: 6. Processamento de dados em Java, Casting.ts
+ 2023-10-24 06:55:26,188-INFO-Selected file: 7. Entrada de dados em Java - PARTE 1.ts
+ 2023-10-24 06:55:26,188-INFO-Selected file: 8. Entrada de dados em Java - PARTE 2.ts
+ 2023-10-24 06:55:26,188-INFO-Selected file: 9. Funções matemáticas em Java.ts
+ 2023-10-24 06:55:26,188-INFO-Selected file: 10. Exercícios de fixação.ts
+ 2023-10-24 06:55:26,189-INFO-Selected file: 1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:26,189-INFO-Selected file: 2. Expressões comparativas.ts
+ 2023-10-24 06:55:26,189-INFO-Selected file: 3. Expressões lógicas.ts
+ 2023-10-24 06:55:26,190-INFO-Selected file: 4. Estrutura condicional.ts
+ 2023-10-24 06:55:26,190-INFO-Selected file: 5. Exercícios de fixação.ts
+ 2023-10-24 06:55:26,190-INFO-Selected file: 6. Sintaxe opcional - operadores de atribuição cumulativa.ts
+ 2023-10-24 06:55:26,190-INFO-Selected file: 7. Sintaxe opcional - estrutura switch-case.ts
+ 2023-10-24 06:55:26,191-INFO-Selected file: 8. Expressão condicional ternária.ts
+ 2023-10-24 06:55:26,191-INFO-Selected file: 9. Escopo e inicialização.ts
+ 2023-10-24 06:55:26,191-INFO-Selected file: 1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:26,192-INFO-Selected file: 2. Como utilizar o DEBUG no Eclipse (execução passo a passo).ts
+ 2023-10-24 06:55:26,192-INFO-Selected file: 3. Estrutura repetitiva enquanto (while).ts
+ 2023-10-24 06:55:26,192-INFO-Selected file: 4. Teste de mesa com estrutura repetitiva enquanto (720p).ts
+ 2023-10-24 06:55:26,192-INFO-Selected file: 5. Exercícios de testes de mesa com while.ts
+ 2023-10-24 06:55:26,193-INFO-Selected file: 6. Estrutura repetitiva para (for).ts
+ 2023-10-24 06:55:26,193-INFO-Selected file: 7. Teste de mesa com estrutura repetitiva para (720p).ts
+ 2023-10-24 06:55:26,193-INFO-Selected file: 8. Exercícios de testes de mesa com for.ts
+ 2023-10-24 06:55:26,193-INFO-Selected file: 9. Estrutura repetitiva faça-enquanto.ts
+ 2023-10-24 06:55:26,194-INFO-Selected file: 10. Exercícios de fixação.ts
+ 2023-10-24 06:55:26,194-INFO-Selected file: 1. Restrições e convenções para nomes.ts
+ 2023-10-24 06:55:26,194-INFO-Selected file: 2. Comentários em Java (básico).ts
+ 2023-10-24 06:55:26,195-INFO-Selected file: 3. Funções interessantes para String.ts
+ 2023-10-24 06:55:26,195-INFO-Selected file: 4. Funções (sintaxe).ts
+ 2023-10-24 06:55:26,195-INFO-Selected file: 1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:26,195-INFO-Selected file: 2. Resolvendo um problema sem orientacao a objetos.ts
+ 2023-10-24 06:55:26,196-INFO-Selected file: 3. Criando uma classe com três atributos para representar melhor o triângulo.ts
+ 2023-10-24 06:55:26,196-INFO-Selected file: 4. Criando um método para obtermos os benefícios de reaproveitamento e delegação.ts
+ 2023-10-24 06:55:26,196-INFO-Selected file: 5. Começando a resolver um segundo problema exemplo.ts
+ 2023-10-24 06:55:26,197-INFO-Selected file: 6. Object e toString.ts
+ 2023-10-24 06:55:26,197-INFO-Selected file: 7. Finalizando o programa.ts
+ 2023-10-24 06:55:26,197-INFO-Selected file: 8. Exercícios de fixação.ts
+ 2023-10-24 06:55:26,197-INFO-Selected file: 9. Membros estáticos - Parte 1.ts
+ 2023-10-24 06:55:26,198-INFO-Selected file: 10. Membros estáticos - Parte 2.ts
+ 2023-10-24 06:55:26,198-INFO-Selected file: 11. Exercício de fixação.ts
+ 2023-10-24 06:55:26,198-INFO-Selected file: 1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:26,198-INFO-Selected file: 2. Construtores.ts
+ 2023-10-24 06:55:26,199-INFO-Selected file: 3. Palavra this.ts
+ 2023-10-24 06:55:26,199-INFO-Selected file: 4. Sobrecarga.ts
+ 2023-10-24 06:55:26,199-INFO-Selected file: 5. Encapsulamento.ts
+ 2023-10-24 06:55:26,200-INFO-Selected file: 6. Gerando automaticamente construtores, getters e setters com Eclipse.ts
+ 2023-10-24 06:55:26,200-INFO-Selected file: 7. Modificadores de acesso.ts
+ 2023-10-24 06:55:26,200-INFO-Selected file: 8. Exercício de fixação.ts
+ 2023-10-24 06:55:26,200-INFO-Selected file: 9. Correção do exercício de fixação - Parte 1.ts
+ 2023-10-24 06:55:26,201-INFO-Selected file: 10. Correção do exercício de fixação - Parte 2.ts
+ 2023-10-24 06:55:26,201-INFO-Selected file: 1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:26,201-INFO-Selected file: 2. Tipos referência vs tipos valor.ts
+ 2023-10-24 06:55:26,201-INFO-Selected file: 3. Desalocação de memória - garbage collector e escopo local.ts
+ 2023-10-24 06:55:26,203-INFO-Selected file: 4. Vetores - Parte 1.ts
+ 2023-10-24 06:55:26,204-INFO-Selected file: 5. Vetores - Parte 2.ts
+ 2023-10-24 06:55:26,204-INFO-Selected file: 6. Exercícios de fixação sobre vetores.ts
+ 2023-10-24 06:55:26,204-INFO-Selected file: 7. Boxing, unboxing e wrapper classes.ts
+ 2023-10-24 06:55:26,204-INFO-Selected file: 8. Laço for each.ts
+ 2023-10-24 06:55:26,205-INFO-Selected file: 9. Listas - Parte 1.ts
+ 2023-10-24 06:55:26,205-INFO-Selected file: 10. Listas - Parte 2.ts
+ 2023-10-24 06:55:26,205-INFO-Selected file: 11. Exercício de fixação sobre listas.ts
+ 2023-10-24 06:55:26,205-INFO-Selected file: 1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:26,206-INFO-Selected file: 2. Matrizes.ts
+ 2023-10-24 06:55:26,206-INFO-Selected file: 3. Exercício resolvido.ts
+ 2023-10-24 06:55:26,206-INFO-Selected file: 4. Exercícios de fixação.ts
+ 2023-10-24 06:55:26,206-INFO-Selected file: 1. Introdução a data-hora e duração.ts
+ 2023-10-24 06:55:26,207-INFO-Selected file: 2. Entendendo Timezone (fuso horário).ts
+ 2023-10-24 06:55:26,207-INFO-Selected file: 3. Padrão ISO 8601.ts
+ 2023-10-24 06:55:26,207-INFO-Selected file: 4. Operações importantes com data-hora.ts
+ 2023-10-24 06:55:26,208-INFO-Selected file: 5. Instanciando data-hora em Java.ts
+ 2023-10-24 06:55:26,208-INFO-Selected file: 6. Convertendo data-hora para texto.ts
+ 2023-10-24 06:55:26,208-INFO-Selected file: 7. Convertendo data-hora global para local, obtendo dados.ts
+ 2023-10-24 06:55:26,208-INFO-Selected file: 8. Cálculos com data-hora.ts
+ 2023-10-24 06:55:26,209-INFO-Selected file: 1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:26,209-INFO-Selected file: 2. Enumerações.ts
+ 2023-10-24 06:55:26,209-INFO-Selected file: 3. Vamos falar um pouco de design.ts
+ 2023-10-24 06:55:26,210-INFO-Selected file: 4. Composição.ts
+ 2023-10-24 06:55:26,210-INFO-Selected file: 5. Exerício resolvido 1 - Parte 1.ts
+ 2023-10-24 06:55:26,210-INFO-Selected file: 6. Exerício resolvido 1 - Parte 2.ts
+ 2023-10-24 06:55:26,210-INFO-Selected file: 7. Exercício resolvido 2.ts
+ 2023-10-24 06:55:26,211-INFO-Selected file: 8. Exercício proposto.ts
+ 2023-10-24 06:55:26,211-INFO-Selected file: 1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:26,211-INFO-Selected file: 2. Herança.ts
+ 2023-10-24 06:55:26,211-INFO-Selected file: 3. Upcasting e downcasting.ts
+ 2023-10-24 06:55:26,212-INFO-Selected file: 4. Sobreposição, palavra super, anotação @Override.ts
+ 2023-10-24 06:55:26,212-INFO-Selected file: 5. Classes e métodos final.ts
+ 2023-10-24 06:55:26,212-INFO-Selected file: 6. Introdução ao polimorfismo.ts
+ 2023-10-24 06:55:26,213-INFO-Selected file: 7. Exercício resolvido.ts
+ 2023-10-24 06:55:26,213-INFO-Selected file: 8. Exercício de fixação.ts
+ 2023-10-24 06:55:26,213-INFO-Selected file: 9. Classes abstratas.ts
+ 2023-10-24 06:55:26,213-INFO-Selected file: 10. Métodos abstratos.ts
+ 2023-10-24 06:55:26,214-INFO-Selected file: 11. Exercício de fixação.ts
+ 2023-10-24 06:55:26,214-INFO-___Unselected: 01 Componentes e injeção de dependência (slides).pdf
+ 2023-10-24 06:55:26,214-INFO-___Unselected: 01 DESAFIO Componentes e injeção de dependência.pdf
+ 2023-10-24 06:55:26,215-INFO-Selected file: 2. Material de apoio do capítulo.mp4
+ 2023-10-24 06:55:26,215-INFO-Selected file: 3. Visão geral do Java Spring Essential.mp4
+ 2023-10-24 06:55:26,215-INFO-Selected file: 4. Sistema e componentes.mp4
+ 2023-10-24 06:55:26,215-INFO-Selected file: 5. Exemplo didático.mp4
+ 2023-10-24 06:55:26,216-INFO-Selected file: 6. Inversão de controle e injeção de dependência.mp4
+ 2023-10-24 06:55:26,216-INFO-Selected file: 7. Trocando a dependência sem abrir o componente pai.mp4
+ 2023-10-24 06:55:26,216-INFO-Selected file: 8. Frameworks.mp4
+ 2023-10-24 06:55:26,216-INFO-Selected file: 9. Criando projeto Spring Boot.mp4
+ 2023-10-24 06:55:26,217-INFO-Selected file: 10. Importando o projeto no STS e Intellij.mp4
+ 2023-10-24 06:55:26,217-INFO-Selected file: 11. Implementando o projeto no Spring Boot.mp4
+ 2023-10-24 06:55:26,217-INFO-Selected file: 12. DESAFIO Componentes e injeção de dependência.mp4
+ 2023-10-24 06:55:26,218-INFO-Selected file: 1. Apresentação do capítulo.mp4
+ 2023-10-24 06:55:26,219-INFO-___Unselected: 02 DESAFIO Modelo de domínio e ORM.pdf
+ 2023-10-24 06:55:26,219-INFO-___Unselected: 02 Modelo de domínio e ORM (slides).pdf
+ 2023-10-24 06:55:26,219-INFO-Selected file: 2. Material de apoio do capítulo.mp4
+ 2023-10-24 06:55:26,220-INFO-Selected file: 3. Antes de prosseguir com o capítulo.mp4
+ 2023-10-24 06:55:26,220-INFO-Selected file: 4. Documento de requisitos do sistema DSCommerce.mp4
+ 2023-10-24 06:55:26,220-INFO-Selected file: 5. Baixando o projeto pronto.mp4
+ 2023-10-24 06:55:26,221-INFO-Selected file: 6. Criando o projeto DSCommerce.mp4
+ 2023-10-24 06:55:26,221-INFO-Selected file: 7. Entidade User, banco H2.mp4
+ 2023-10-24 06:55:26,221-INFO-Selected file: 8. Order, Enum, relacionamento muitos-para-um.mp4
+ 2023-10-24 06:55:26,221-INFO-Selected file: 9. Payment, relacionamento um-para-um.mp4
+ 2023-10-24 06:55:26,222-INFO-Selected file: 10. Muitos-para-muitos, column unique e text.mp4
+ 2023-10-24 06:55:26,222-INFO-Selected file: 11. Muitos-para-muitos com classe de associação PARTE 1.mp4
+ 2023-10-24 06:55:26,222-INFO-Selected file: 12. Muitos-para-muitos com classe de associação PARTE 2.mp4
+ 2023-10-24 06:55:26,222-INFO-Selected file: 13. Seeding da base de dados.mp4
+ 2023-10-24 06:55:26,223-INFO-Selected file: 14. Gerando equals e hashCode das entidades.mp4
+ 2023-10-24 06:55:26,223-INFO-Selected file: 15.  Desafio Modelo de domínio e ORM.mp4
+ 2023-10-24 06:55:26,223-INFO-___Unselected: Documento de requisitos DSCommerce.pdf
+ 2023-10-24 06:55:26,224-INFO-___Unselected: dscommerce-backend-aulas-cap02.zip
+ 2023-10-24 06:55:26,224-INFO-Selected file: 1. Visão geral do capítulo.mp4
+ 2023-10-24 06:55:26,224-INFO-Selected file: 2. Material de apoio do capítulo.mp4
+ 2023-10-24 06:55:26,224-INFO-___Unselected: 03 API REST, camadas, CRUD, exceções, validações (slides).pdf
+ 2023-10-24 06:55:26,225-INFO-___Unselected: 03 DESAFIO CRUD de clientes.pdf
+ 2023-10-24 06:55:26,225-INFO-Selected file: 3. O que é uma API REST.mp4
+ 2023-10-24 06:55:26,225-INFO-Selected file: 4. Recursos, URL, parâmetros de consulta e de rota.mp4
+ 2023-10-24 06:55:26,226-INFO-Selected file: 5. Padrões de URL, verbos HTTP, códigos de resposta.mp4
+ 2023-10-24 06:55:26,226-INFO-Selected file: 6. Padrão camadas.mp4
+ 2023-10-24 06:55:26,226-INFO-Selected file: 7. Aviso - DSCommerce preparado.mp4
+ 2023-10-24 06:55:26,226-INFO-Selected file: 8. Primeiro teste da API.mp4
+ 2023-10-24 06:55:26,227-INFO-Selected file: 9. Primeiro teste com Repository.mp4
+ 2023-10-24 06:55:26,227-INFO-Selected file: 10. Criando DTO e estruturando camadas.mp4
+ 2023-10-24 06:55:26,227-INFO-Selected file: 11. Dica da biblioteca ModelMapper para DTO.mp4
+ 2023-10-24 06:55:26,227-INFO-Selected file: 12. CRUD.mp4
+ 2023-10-24 06:55:26,228-INFO-Selected file: 13. Busca paginada de produtos.mp4
+ 2023-10-24 06:55:26,228-INFO-Selected file: 14. Inserindo novo produto com POST.mp4
+ 2023-10-24 06:55:26,228-INFO-Selected file: 15. Customizando resposta com ResponseEntity.mp4
+ 2023-10-24 06:55:26,229-INFO-Selected file: 16. Atualizando produto com PUT.mp4
+ 2023-10-24 06:55:26,229-INFO-Selected file: 17. Deletando produto com DELETE.mp4
+ 2023-10-24 06:55:26,229-INFO-Selected file: 18. Criando exceções de serviço customizadas.mp4
+ 2023-10-24 06:55:26,229-INFO-Selected file: 19. Tratando exceção com resposta customizada.mp4
+ 2023-10-24 06:55:26,230-INFO-Selected file: 20. Implementando outras exceções.mp4
+ 2023-10-24 06:55:26,230-INFO-Selected file: 21. Validação com Bean Validation.mp4
+ 2023-10-24 06:55:26,230-INFO-Selected file: 22. Customizando a resposta da validação.mp4
+ 2023-10-24 06:55:26,230-INFO-Selected file: 23. DESAFIO CRUD de clientes.mp4
+ 2023-10-24 06:55:26,231-INFO-___Unselected: drive-download-20231022T194454Z-001.zip
+ 2023-10-24 06:55:26,231-INFO-Selected file: 1. Visão geral do capítulo.mp4
+ 2023-10-24 06:55:26,231-INFO-Selected file: 2. Material de apoio do capítulo.mp4
+ 2023-10-24 06:55:26,232-INFO-Selected file: 3. Sessão JPA e estados de entidades.mp4
+ 2023-10-24 06:55:26,232-INFO-___Unselected: 04 DESAFIO Consulta vendas.pdf
+ 2023-10-24 06:55:26,232-INFO-___Unselected: 04 JPA, consultas SQL e JPQL (slides).pdf
+ 2023-10-24 06:55:26,232-INFO-Selected file: 4. Salvando entidade associada para um PARTE 1.mp4
+ 2023-10-24 06:55:26,233-INFO-Selected file: 5. Salvando entidade associada para um PARTE 2.mp4
+ 2023-10-24 06:55:26,233-INFO-Selected file: 6. Salvando entidade associada para um PARTE 3.mp4
+ 2023-10-24 06:55:26,233-INFO-Selected file: 7. Salvando entidades associadas para muitos.mp4
+ 2023-10-24 06:55:26,233-INFO-Selected file: 8. Evitando degradação de performance.mp4
+ 2023-10-24 06:55:26,234-INFO-Selected file: 9. Carregamento EAGER e LAZY.mp4
+ 2023-10-24 06:55:26,235-INFO-Selected file: 10. Analisando o carregamento lazy dos funcionários.mp4
+ 2023-10-24 06:55:26,235-INFO-Selected file: 11. Alterando o atributo fetch dos relacionamentos.mp4
+ 2023-10-24 06:55:26,236-INFO-Selected file: 12. Otimizando consultas com a cláusula JOIN FETCH.mp4
+ 2023-10-24 06:55:26,236-INFO-Selected file: 13. Entendendo Transactional e open-in-view.mp4
+ 2023-10-24 06:55:26,236-INFO-Selected file: 14. Consultas com Query Methods.mp4
+ 2023-10-24 06:55:26,236-INFO-Selected file: 15. Introdução sobre JPQL.mp4
+ 2023-10-24 06:55:26,237-INFO-Selected file: 16. Polêmica vale a pena especializar na JPQL.mp4
+ 2023-10-24 06:55:26,237-INFO-Selected file: 17. Preparando para os estudos de caso de consultas.mp4
+ 2023-10-24 06:55:26,237-INFO-Selected file: 18. URI 2602 - Elaborando a consulta.mp4
+ 2023-10-24 06:55:26,238-INFO-Selected file: 19. Baixando os projetos iniciados dos estudos de caso.mp4
+ 2023-10-24 06:55:26,238-INFO-Selected file: 20. URI 2602 Spring Boot SQL.mp4
+ 2023-10-24 06:55:26,238-INFO-Selected file: 21. URI 2602 Spring Boot JPQL.mp4
+ 2023-10-24 06:55:26,238-INFO-Selected file: 22. URI 2611 Elaborando a consulta.mp4
+ 2023-10-24 06:55:26,239-INFO-Selected file: 23. URI 2611 Spring Boot SQL e JPQL.mp4
+ 2023-10-24 06:55:26,239-INFO-Selected file: 24. URI 2621 Elaborando a consulta.mp4
+ 2023-10-24 06:55:26,239-INFO-Selected file: 25. URI 2621 Spring Boot SQL e JPQL.mp4
+ 2023-10-24 06:55:26,240-INFO-Selected file: 26. Dica - pratique um pouco se você estiver precisando.mp4
+ 2023-10-24 06:55:26,240-INFO-Selected file: 27. URI 2609 Elaborando a consulta.mp4
+ 2023-10-24 06:55:26,240-INFO-Selected file: 28. URI 2609 Spring Boot SQL e JPQL.mp4
+ 2023-10-24 06:55:26,240-INFO-Selected file: 29. URI 2737 Elaborando a consulta.mp4
+ 2023-10-24 06:55:26,241-INFO-Selected file: 30. URI 2737 Solução alternativa.mp4
+ 2023-10-24 06:55:26,241-INFO-Selected file: 31. URI 2737 Spring Boot SQL.mp4
+ 2023-10-24 06:55:26,241-INFO-Selected file: 32. URI 2990 Elaborando a consulta.mp4
+ 2023-10-24 06:55:26,242-INFO-Selected file: 33. URI 2990 Solução alternativa com LEFT JOIN.mp4
+ 2023-10-24 06:55:26,242-INFO-Selected file: 34. URI 2990 Spring Boot SQL e JPQL.mp4
+ 2023-10-24 06:55:26,242-INFO-Selected file: 35. DSCommerce consulta de produtos por nome.mp4
+ 2023-10-24 06:55:26,242-INFO-Selected file: 36. Evitando consultas lentas muitos-para-muitos.mp4
+ 2023-10-24 06:55:26,243-INFO-Selected file: 37. Evitando consultas lentas muitos-para-um com countQuery.mp4
+ 2023-10-24 06:55:26,243-INFO-Selected file: 38. DESAFIO Consulta vendas.mp4
+ 2023-10-24 06:55:26,243-INFO-___Unselected: DSCommerce Cap04.postman_collection.json
+ 2023-10-24 06:55:26,243-INFO-___Unselected: dscommerce-backend-aulas-cap04.zip
+ 2023-10-24 06:55:26,244-INFO-___Unselected: exercicios-sql-jpql-finalizados.zip
+ 2023-10-24 06:55:26,244-INFO-___Unselected: exercicios-sql-jpql-iniciados.zip
+ 2023-10-24 06:55:26,244-INFO-Selected file: 1. AVISO Faça seu projeto salvando commits graduais.mp4
+ 2023-10-24 06:55:26,245-INFO-Selected file: 2. Visão geral do capítulo.mp4
+ 2023-10-24 06:55:26,245-INFO-Selected file: 3. Material de apoio.mp4
+ 2023-10-24 06:55:26,245-INFO-Selected file: 4. Baixando o projeto pronto.mp4
+ 2023-10-24 06:55:26,245-INFO-___Unselected: 05 DESAFIO Projeto Spring estruturado.pdf
+ 2023-10-24 06:55:26,246-INFO-Selected file: 5. Ideia geral do login e controle de acesso.mp4
+ 2023-10-24 06:55:26,246-INFO-Selected file: 6. Visão geral do OAuth2.mp4
+ 2023-10-24 06:55:26,246-INFO-Selected file: 7. Login, credenciais e JWT.mp4
+ 2023-10-24 06:55:26,246-INFO-Selected file: 8. Preparando projeto para segurança.mp4
+ 2023-10-24 06:55:26,247-INFO-Selected file: 9. Modelo de dados User-Role.mp4
+ 2023-10-24 06:55:26,247-INFO-Selected file: 10. Adicionando Spring Security ao projeto.mp4
+ 2023-10-24 06:55:26,247-INFO-Selected file: 11. BCrypt password encoder.mp4
+ 2023-10-24 06:55:26,248-INFO-Selected file: 12. Implementando o checklist do Spring Security PARTE 1.mp4
+ 2023-10-24 06:55:26,248-INFO-Selected file: 13. Implementando o checklist do Spring Security PARTE 2.mp4
+ 2023-10-24 06:55:26,248-INFO-Selected file: 14. Checklist OAuth2 JWT password grant.mp4
+ 2023-10-24 06:55:26,248-INFO-Selected file: 15. Requisição de login.mp4
+ 2023-10-24 06:55:26,249-INFO-Selected file: 16. Deixando o Postman top.mp4
+ 2023-10-24 06:55:26,249-INFO-Selected file: 17. Analisando o Authorization server.mp4
+ 2023-10-24 06:55:26,249-INFO-Selected file: 18. Analisando o Resource server.mp4
+ 2023-10-24 06:55:26,250-INFO-Selected file: 19. Controle de acesso por perfil e rota.mp4
+ 2023-10-24 06:55:26,251-INFO-Selected file: 20. Adicionando segurança ao DSCommerce.mp4
+ 2023-10-24 06:55:26,251-INFO-Selected file: 21. Adicionando UserDetails e GrantedAuthority.mp4
+ 2023-10-24 06:55:26,251-INFO-Selected file: 22. Adicionando UserDetailsService.mp4
+ 2023-10-24 06:55:26,252-INFO-Selected file: 23. Adicionando OAuth2, JWT, password grant.mp4
+ 2023-10-24 06:55:26,252-INFO-Selected file: 24. Adicionando controle de acesso por perfil e rota.mp4
+ 2023-10-24 06:55:26,252-INFO-Selected file: 25. Obtendo o usuário logado.mp4
+ 2023-10-24 06:55:26,253-INFO-Selected file: 26. Consultar catálogo ProductMinDTO.mp4
+ 2023-10-24 06:55:26,253-INFO-Selected file: 27. ProductDTO com categorias.mp4
+ 2023-10-24 06:55:26,253-INFO-Selected file: 28. OrderDTO, busca de pedido por id.mp4
+ 2023-10-24 06:55:26,253-INFO-Selected file: 29. Salvando um pedido.mp4
+ 2023-10-24 06:55:26,254-INFO-Selected file: 30. Acrescentando imgUrl em OrderItemDTO.mp4
+ 2023-10-24 06:55:26,254-INFO-Selected file: 31. Controle de acesso programático self ou admin.mp4
+ 2023-10-24 06:55:26,254-INFO-Selected file: 32. Endpoint para buscar categorias.mp4
+ 2023-10-24 06:55:26,254-INFO-Selected file: 33. Ajustes nas validações de dados.mp4
+ 2023-10-24 06:55:26,255-INFO-Selected file: 34. DESAFIO Projeto Spring Boot estruturado.mp4
+ 2023-10-24 06:55:26,255-INFO-___Unselected: drive-download-20231022T191610Z-001.zip
+ 2023-10-24 06:55:26,255-INFO-___Unselected: drive-download-20231022T191637Z-001.zip
+ 2023-10-24 06:55:26,256-INFO-Selected file: 1. Visão geral do capítulo.mp4
+ 2023-10-24 06:55:26,256-INFO-Selected file: 2. Aviso conteúdo opcional sobre implantação.mp4
+ 2023-10-24 06:55:26,256-INFO-Selected file: 3. Sobre os serviços de implantação.mp4
+ 2023-10-24 06:55:26,256-INFO-Selected file: 4. Preparando projeto DSList para o estudo de caso com Railway.mp4
+ 2023-10-24 06:55:26,257-INFO-Selected file: 5. Perfis de projeto.mp4
+ 2023-10-24 06:55:26,257-INFO-Selected file: 6. Preparando Postgresql e pgAdmin com Docker.mp4
+ 2023-10-24 06:55:26,257-INFO-Selected file: 7. Perfis de projeto dev e prod.mp4
+ 2023-10-24 06:55:26,257-INFO-Selected file: 8. Script SQL para criar base de dados e seed.mp4
+ 2023-10-24 06:55:26,258-INFO-Selected file: 9. Homologação local com Postgresql.mp4
+ 2023-10-24 06:55:26,258-INFO-Selected file: 10. Processo de deploy no Railway.mp4
+ 2023-10-24 06:55:26,258-INFO-Selected file: 11. Teste de CI CD adicionando CORS.mp4
+ 2023-10-24 06:55:26,259-INFO-Selected file: 12. Preparando projeto DSCommerce para o estudo de caso com Heroku.mp4
+ 2023-10-24 06:55:26,259-INFO-Selected file: 13. Perfil dev de homologação local.mp4
+ 2023-10-24 06:55:26,259-INFO-Selected file: 14. Script SQL de criação da base de dados.mp4
+ 2023-10-24 06:55:26,259-INFO-Selected file: 15. Criando projeto e base de dados no Heroku.mp4
+ 2023-10-24 06:55:26,260-INFO-Selected file: 16. Preparando o projeto para implantação no Heroku.mp4
+ 2023-10-24 06:55:26,260-INFO-Selected file: 17. Implantando a aplicação.mp4
+ 2023-10-24 06:55:26,260-INFO-Selected file: 18. Testando a aplicação no Heroku.mp4
+ 2023-10-24 06:55:26,260-INFO-___Unselected: dslist-backend-main.zip
+ 2023-10-24 06:55:26,261-INFO-___Unselected: log-vidqa.txt
+ 2023-10-24 06:55:26,261-INFO-Selected file: 1. Boas-vindas ao bônus Intensivão Java Spring DSList.ts
+ 2023-10-24 06:55:26,261-INFO-Selected file: 1. Intensivão Java Spring DSList Aula 1.ts
+ 2023-10-24 06:55:26,262-INFO-Selected file: 2. Intensivão Java Spring DSList Aula 2.ts
+ 2023-10-24 06:55:26,262-INFO-Selected file: 3. Intensivão Java Spring DSList Aula 3.ts
+ 2023-10-24 06:55:26,262-INFO-Selected file: 4. Intensivão Java Spring DSList Aula 4.ts
+ 2023-10-24 06:55:26,262-INFO-Selected file: 5. Intensivão Java Spring DSList Aula 5.ts
+ 2023-10-24 06:55:26,263-INFO-___Unselected: aula1-intensivao-java-spring.pdf
+ 2023-10-24 06:55:26,263-INFO-___Unselected: aula2-intensivao-java-spring.pdf
+ 2023-10-24 06:55:26,263-INFO-___Unselected: aula3-intensivao-java-spring.pdf
+ 2023-10-24 06:55:26,264-INFO-Selected file: 1. Baixe aqui o material de apoio.ts
+ 2023-10-24 06:55:26,264-INFO-Selected file: 2. Visão geral do capítulo Modelo Conceitual.ts
+ 2023-10-24 06:55:26,264-INFO-Selected file: 3. Modelo conceitual, conceitos e atributos.ts
+ 2023-10-24 06:55:26,264-INFO-Selected file: 4. Como identificar conceitos.ts
+ 2023-10-24 06:55:26,265-INFO-Selected file: 5. Exercícios de fixação.ts
+ 2023-10-24 06:55:26,265-INFO-Selected file: 6. Correção do exercício 2.ts
+ 2023-10-24 06:55:26,265-INFO-Selected file: 7. Correção do exercício 3.ts
+ 2023-10-24 06:55:26,265-INFO-Selected file: 8. Associações.ts
+ 2023-10-24 06:55:26,266-INFO-Selected file: 9. Multiplicidade de papéis.ts
+ 2023-10-24 06:55:26,267-INFO-Selected file: 10. Conceito dependente, associações obrigatórias, múltiplas e autoassociações.ts
+ 2023-10-24 06:55:26,267-INFO-Selected file: 11. Desenhando instâncias com o diagrama de objetos da UML.ts
+ 2023-10-24 06:55:26,267-INFO-Selected file: 12. Exercício resolvido 01.ts
+ 2023-10-24 06:55:26,268-INFO-Selected file: 13. Exercício resolvido 02.ts
+ 2023-10-24 06:55:26,268-INFO-Selected file: 14. Correção do exercício 03.ts
+ 2023-10-24 06:55:26,268-INFO-Selected file: 15. Correção do exercício 04.ts
+ 2023-10-24 06:55:26,269-INFO-Selected file: 16. Correção do exercício 05.ts
+ 2023-10-24 06:55:26,269-INFO-Selected file: 17. Associações todo-parte.ts
+ 2023-10-24 06:55:26,269-INFO-Selected file: 18. Classe de associação.ts
+ 2023-10-24 06:55:26,269-INFO-Selected file: 19. Exercício resolvido 01 - Parte 1.ts
+ 2023-10-24 06:55:26,270-INFO-Selected file: 20. Exercício resolvido 01 - Parte 2.ts
+ 2023-10-24 06:55:26,270-INFO-Selected file: 21. Exercício resolvido 01 - Parte 3.ts
+ 2023-10-24 06:55:26,270-INFO-Selected file: 22. Correção do exercício 02.ts
+ 2023-10-24 06:55:26,270-INFO-Selected file: 23. Correção do exercício 03.ts
+ 2023-10-24 06:55:26,271-INFO-Selected file: 24. Enumerações e tipos primitivos.ts
+ 2023-10-24 06:55:26,271-INFO-Selected file: 25. Herança - Parte 1.ts
+ 2023-10-24 06:55:26,271-INFO-Selected file: 26. Herança - Parte 2.ts
+ 2023-10-24 06:55:26,272-INFO-Selected file: 27. Exercício resolvido 01 - Parte 1.ts
+ 2023-10-24 06:55:26,272-INFO-Selected file: 28. Exercício resolvido 01 - Parte 2.ts
+ 2023-10-24 06:55:26,272-INFO-Selected file: 29. Exercício resolvido 01 - Parte 3.ts
+ 2023-10-24 06:55:26,272-INFO-Selected file: 30. Correção do exercício 02 - Parte 1.ts
+ 2023-10-24 06:55:26,273-INFO-Selected file: 31. Correção do exercício 02 - Parte 2.ts
+ 2023-10-24 06:55:26,273-INFO-Selected file: 32. Correção do exercício 03.ts
+ 2023-10-24 06:55:26,273-INFO-___Unselected: log-vidqa.txt
+ 2023-10-24 06:55:26,274-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\1. Boas-vindas geral.ts
+ 2023-10-24 06:55:26,865-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\2. Visão geral do capítulo.ts
+ 2023-10-24 06:55:26,966-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\3. Versão do Java.ts
+ 2023-10-24 06:55:27,059-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\4. Histórico e edições do Java.ts
+ 2023-10-24 06:55:27,296-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\5. JVM - Máquina Virtual do Java.ts
+ 2023-10-24 06:55:27,392-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\6. Estrutura de uma aplicação Java.ts
+ 2023-10-24 06:55:27,489-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\7. Instalar Java JDK no Windows.ts
+ 2023-10-24 06:55:27,591-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\8. Instalar Java JDK no Linux e Mac.ts
+ 2023-10-24 06:55:27,698-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\9. Instalar o Eclipse.ts
+ 2023-10-24 06:55:27,829-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\10. Primeiro programa Java e Eclipse.ts
+ 2023-10-24 06:55:27,923-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:28,021-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\2. Expressões aritméticas.ts
+ 2023-10-24 06:55:28,131-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\3. Variáveis e tipos básicos de Java.ts
+ 2023-10-24 06:55:28,227-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\4. As três operações básicas de programação.ts
+ 2023-10-24 06:55:28,330-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\5. Saída de dados em Java.ts
+ 2023-10-24 06:55:28,428-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\6. Processamento de dados em Java, Casting.ts
+ 2023-10-24 06:55:28,622-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\7. Entrada de dados em Java - PARTE 1.ts
+ 2023-10-24 06:55:28,722-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\8. Entrada de dados em Java - PARTE 2.ts
+ 2023-10-24 06:55:28,830-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\9. Funções matemáticas em Java.ts
+ 2023-10-24 06:55:28,926-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\10. Exercícios de fixação.ts
+ 2023-10-24 06:55:29,024-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:29,139-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\2. Expressões comparativas.ts
+ 2023-10-24 06:55:29,235-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\3. Expressões lógicas.ts
+ 2023-10-24 06:55:29,352-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\4. Estrutura condicional.ts
+ 2023-10-24 06:55:29,441-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\5. Exercícios de fixação.ts
+ 2023-10-24 06:55:29,553-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\6. Sintaxe opcional - operadores de atribuição cumulativa.ts
+ 2023-10-24 06:55:29,645-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\7. Sintaxe opcional - estrutura switch-case.ts
+ 2023-10-24 06:55:29,735-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\8. Expressão condicional ternária.ts
+ 2023-10-24 06:55:29,927-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\9. Escopo e inicialização.ts
+ 2023-10-24 06:55:30,022-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:30,121-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\2. Como utilizar o DEBUG no Eclipse (execução passo a passo).ts
+ 2023-10-24 06:55:30,222-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\3. Estrutura repetitiva enquanto (while).ts
+ 2023-10-24 06:55:30,313-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\4. Teste de mesa com estrutura repetitiva enquanto (720p).ts
+ 2023-10-24 06:55:30,419-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\5. Exercícios de testes de mesa com while.ts
+ 2023-10-24 06:55:30,521-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\6. Estrutura repetitiva para (for).ts
+ 2023-10-24 06:55:30,622-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\7. Teste de mesa com estrutura repetitiva para (720p).ts
+ 2023-10-24 06:55:30,728-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\8. Exercícios de testes de mesa com for.ts
+ 2023-10-24 06:55:30,803-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\9. Estrutura repetitiva faça-enquanto.ts
+ 2023-10-24 06:55:30,902-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\10. Exercícios de fixação.ts
+ 2023-10-24 06:55:30,996-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\05. Outros tópicos básicos em Java\1. Restrições e convenções para nomes.ts
+ 2023-10-24 06:55:31,131-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\05. Outros tópicos básicos em Java\2. Comentários em Java (básico).ts
+ 2023-10-24 06:55:31,313-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\05. Outros tópicos básicos em Java\3. Funções interessantes para String.ts
+ 2023-10-24 06:55:31,409-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\05. Outros tópicos básicos em Java\4. Funções (sintaxe).ts
+ 2023-10-24 06:55:31,498-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:31,609-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\2. Resolvendo um problema sem orientacao a objetos.ts
+ 2023-10-24 06:55:31,710-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\3. Criando uma classe com três atributos para representar melhor o triângulo.ts
+ 2023-10-24 06:55:31,801-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\4. Criando um método para obtermos os benefícios de reaproveitamento e delegação.ts
+ 2023-10-24 06:55:31,900-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\5. Começando a resolver um segundo problema exemplo.ts
+ 2023-10-24 06:55:31,985-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\6. Object e toString.ts
+ 2023-10-24 06:55:32,087-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\7. Finalizando o programa.ts
+ 2023-10-24 06:55:32,170-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\8. Exercícios de fixação.ts
+ 2023-10-24 06:55:32,265-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\9. Membros estáticos - Parte 1.ts
+ 2023-10-24 06:55:32,359-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\10. Membros estáticos - Parte 2.ts
+ 2023-10-24 06:55:32,446-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\11. Exercício de fixação.ts
+ 2023-10-24 06:55:32,636-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:32,743-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\2. Construtores.ts
+ 2023-10-24 06:55:32,845-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\3. Palavra this.ts
+ 2023-10-24 06:55:32,942-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\4. Sobrecarga.ts
+ 2023-10-24 06:55:33,036-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\5. Encapsulamento.ts
+ 2023-10-24 06:55:33,122-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\6. Gerando automaticamente construtores, getters e setters com Eclipse.ts
+ 2023-10-24 06:55:33,233-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\7. Modificadores de acesso.ts
+ 2023-10-24 06:55:33,326-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\8. Exercício de fixação.ts
+ 2023-10-24 06:55:33,440-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\9. Correção do exercício de fixação - Parte 1.ts
+ 2023-10-24 06:55:33,542-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\10. Correção do exercício de fixação - Parte 2.ts
+ 2023-10-24 06:55:33,640-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:33,729-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\2. Tipos referência vs tipos valor.ts
+ 2023-10-24 06:55:33,817-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\3. Desalocação de memória - garbage collector e escopo local.ts
+ 2023-10-24 06:55:33,981-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\4. Vetores - Parte 1.ts
+ 2023-10-24 06:55:34,093-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\5. Vetores - Parte 2.ts
+ 2023-10-24 06:55:34,186-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\6. Exercícios de fixação sobre vetores.ts
+ 2023-10-24 06:55:34,314-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\7. Boxing, unboxing e wrapper classes.ts
+ 2023-10-24 06:55:34,410-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\8. Laço for each.ts
+ 2023-10-24 06:55:34,493-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\9. Listas - Parte 1.ts
+ 2023-10-24 06:55:34,589-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\10. Listas - Parte 2.ts
+ 2023-10-24 06:55:34,680-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\11. Exercício de fixação sobre listas.ts
+ 2023-10-24 06:55:34,788-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\09. Matrizes\1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:34,891-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\09. Matrizes\2. Matrizes.ts
+ 2023-10-24 06:55:34,994-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\09. Matrizes\3. Exercício resolvido.ts
+ 2023-10-24 06:55:35,073-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\09. Matrizes\4. Exercícios de fixação.ts
+ 2023-10-24 06:55:35,180-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\1. Introdução a data-hora e duração.ts
+ 2023-10-24 06:55:35,426-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\2. Entendendo Timezone (fuso horário).ts
+ 2023-10-24 06:55:35,536-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\3. Padrão ISO 8601.ts
+ 2023-10-24 06:55:35,631-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\4. Operações importantes com data-hora.ts
+ 2023-10-24 06:55:35,743-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\5. Instanciando data-hora em Java.ts
+ 2023-10-24 06:55:35,846-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\6. Convertendo data-hora para texto.ts
+ 2023-10-24 06:55:35,931-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\7. Convertendo data-hora global para local, obtendo dados.ts
+ 2023-10-24 06:55:36,015-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\8. Cálculos com data-hora.ts
+ 2023-10-24 06:55:36,165-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:36,259-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\2. Enumerações.ts
+ 2023-10-24 06:55:36,356-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\3. Vamos falar um pouco de design.ts
+ 2023-10-24 06:55:36,455-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\4. Composição.ts
+ 2023-10-24 06:55:36,540-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\5. Exerício resolvido 1 - Parte 1.ts
+ 2023-10-24 06:55:36,624-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\6. Exerício resolvido 1 - Parte 2.ts
+ 2023-10-24 06:55:36,746-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\7. Exercício resolvido 2.ts
+ 2023-10-24 06:55:36,865-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\8. Exercício proposto.ts
+ 2023-10-24 06:55:36,967-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:37,064-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\2. Herança.ts
+ 2023-10-24 06:55:37,144-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\3. Upcasting e downcasting.ts
+ 2023-10-24 06:55:37,244-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\4. Sobreposição, palavra super, anotação @Override.ts
+ 2023-10-24 06:55:37,347-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\5. Classes e métodos final.ts
+ 2023-10-24 06:55:37,452-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\6. Introdução ao polimorfismo.ts
+ 2023-10-24 06:55:37,550-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\7. Exercício resolvido.ts
+ 2023-10-24 06:55:37,631-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\8. Exercício de fixação.ts
+ 2023-10-24 06:55:37,739-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\9. Classes abstratas.ts
+ 2023-10-24 06:55:37,839-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\10. Métodos abstratos.ts
+ 2023-10-24 06:55:37,934-INFO-run ffprobe: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\11. Exercício de fixação.ts
+ 2023-10-24 06:55:38,030-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\1. Componentes de Injeção de Dependencia\2. Material de apoio do capítulo.mp4
+ 2023-10-24 06:55:38,133-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\1. Componentes de Injeção de Dependencia\3. Visão geral do Java Spring Essential.mp4
+ 2023-10-24 06:55:38,231-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\1. Componentes de Injeção de Dependencia\4. Sistema e componentes.mp4
+ 2023-10-24 06:55:38,325-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\1. Componentes de Injeção de Dependencia\5. Exemplo didático.mp4
+ 2023-10-24 06:55:38,428-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\1. Componentes de Injeção de Dependencia\6. Inversão de controle e injeção de dependência.mp4
+ 2023-10-24 06:55:38,535-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\1. Componentes de Injeção de Dependencia\7. Trocando a dependência sem abrir o componente pai.mp4
+ 2023-10-24 06:55:38,609-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\1. Componentes de Injeção de Dependencia\8. Frameworks.mp4
+ 2023-10-24 06:55:38,712-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\1. Componentes de Injeção de Dependencia\9. Criando projeto Spring Boot.mp4
+ 2023-10-24 06:55:38,840-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\1. Componentes de Injeção de Dependencia\10. Importando o projeto no STS e Intellij.mp4
+ 2023-10-24 06:55:39,032-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\1. Componentes de Injeção de Dependencia\11. Implementando o projeto no Spring Boot.mp4
+ 2023-10-24 06:55:39,194-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\1. Componentes de Injeção de Dependencia\12. DESAFIO Componentes e injeção de dependência.mp4
+ 2023-10-24 06:55:39,304-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\1. Apresentação do capítulo.mp4
+ 2023-10-24 06:55:39,422-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\2. Material de apoio do capítulo.mp4
+ 2023-10-24 06:55:39,511-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\3. Antes de prosseguir com o capítulo.mp4
+ 2023-10-24 06:55:39,622-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\4. Documento de requisitos do sistema DSCommerce.mp4
+ 2023-10-24 06:55:39,724-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\5. Baixando o projeto pronto.mp4
+ 2023-10-24 06:55:39,831-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\6. Criando o projeto DSCommerce.mp4
+ 2023-10-24 06:55:39,947-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\7. Entidade User, banco H2.mp4
+ 2023-10-24 06:55:40,051-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\8. Order, Enum, relacionamento muitos-para-um.mp4
+ 2023-10-24 06:55:40,155-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\9. Payment, relacionamento um-para-um.mp4
+ 2023-10-24 06:55:40,267-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\10. Muitos-para-muitos, column unique e text.mp4
+ 2023-10-24 06:55:40,383-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\11. Muitos-para-muitos com classe de associação PARTE 1.mp4
+ 2023-10-24 06:55:40,496-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\12. Muitos-para-muitos com classe de associação PARTE 2.mp4
+ 2023-10-24 06:55:40,604-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\13. Seeding da base de dados.mp4
+ 2023-10-24 06:55:40,733-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\14. Gerando equals e hashCode das entidades.mp4
+ 2023-10-24 06:55:40,839-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\15.  Desafio Modelo de domínio e ORM.mp4
+ 2023-10-24 06:55:40,942-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\1. Visão geral do capítulo.mp4
+ 2023-10-24 06:55:41,028-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\2. Material de apoio do capítulo.mp4
+ 2023-10-24 06:55:41,118-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\3. O que é uma API REST.mp4
+ 2023-10-24 06:55:41,230-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\4. Recursos, URL, parâmetros de consulta e de rota.mp4
+ 2023-10-24 06:55:41,328-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\5. Padrões de URL, verbos HTTP, códigos de resposta.mp4
+ 2023-10-24 06:55:41,421-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\6. Padrão camadas.mp4
+ 2023-10-24 06:55:41,526-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\7. Aviso - DSCommerce preparado.mp4
+ 2023-10-24 06:55:41,641-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\8. Primeiro teste da API.mp4
+ 2023-10-24 06:55:41,768-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\9. Primeiro teste com Repository.mp4
+ 2023-10-24 06:55:41,877-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\10. Criando DTO e estruturando camadas.mp4
+ 2023-10-24 06:55:42,082-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\11. Dica da biblioteca ModelMapper para DTO.mp4
+ 2023-10-24 06:55:42,185-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\12. CRUD.mp4
+ 2023-10-24 06:55:42,262-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\13. Busca paginada de produtos.mp4
+ 2023-10-24 06:55:42,371-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\14. Inserindo novo produto com POST.mp4
+ 2023-10-24 06:55:42,480-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\15. Customizando resposta com ResponseEntity.mp4
+ 2023-10-24 06:55:42,595-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\16. Atualizando produto com PUT.mp4
+ 2023-10-24 06:55:42,709-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\17. Deletando produto com DELETE.mp4
+ 2023-10-24 06:55:42,795-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\18. Criando exceções de serviço customizadas.mp4
+ 2023-10-24 06:55:42,884-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\19. Tratando exceção com resposta customizada.mp4
+ 2023-10-24 06:55:42,990-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\20. Implementando outras exceções.mp4
+ 2023-10-24 06:55:43,107-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\21. Validação com Bean Validation.mp4
+ 2023-10-24 06:55:43,209-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\22. Customizando a resposta da validação.mp4
+ 2023-10-24 06:55:43,321-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\23. DESAFIO CRUD de clientes.mp4
+ 2023-10-24 06:55:43,426-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\1. Visão geral do capítulo.mp4
+ 2023-10-24 06:55:43,538-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\2. Material de apoio do capítulo.mp4
+ 2023-10-24 06:55:43,618-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\3. Sessão JPA e estados de entidades.mp4
+ 2023-10-24 06:55:43,799-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\4. Salvando entidade associada para um PARTE 1.mp4
+ 2023-10-24 06:55:43,910-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\5. Salvando entidade associada para um PARTE 2.mp4
+ 2023-10-24 06:55:44,014-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\6. Salvando entidade associada para um PARTE 3.mp4
+ 2023-10-24 06:55:44,122-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\7. Salvando entidades associadas para muitos.mp4
+ 2023-10-24 06:55:44,240-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\8. Evitando degradação de performance.mp4
+ 2023-10-24 06:55:44,348-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\9. Carregamento EAGER e LAZY.mp4
+ 2023-10-24 06:55:44,468-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\10. Analisando o carregamento lazy dos funcionários.mp4
+ 2023-10-24 06:55:44,578-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\11. Alterando o atributo fetch dos relacionamentos.mp4
+ 2023-10-24 06:55:44,688-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\12. Otimizando consultas com a cláusula JOIN FETCH.mp4
+ 2023-10-24 06:55:44,795-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\13. Entendendo Transactional e open-in-view.mp4
+ 2023-10-24 06:55:44,935-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\14. Consultas com Query Methods.mp4
+ 2023-10-24 06:55:45,036-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\15. Introdução sobre JPQL.mp4
+ 2023-10-24 06:55:45,129-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\16. Polêmica vale a pena especializar na JPQL.mp4
+ 2023-10-24 06:55:45,226-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\17. Preparando para os estudos de caso de consultas.mp4
+ 2023-10-24 06:55:45,310-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\18. URI 2602 - Elaborando a consulta.mp4
+ 2023-10-24 06:55:45,402-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\19. Baixando os projetos iniciados dos estudos de caso.mp4
+ 2023-10-24 06:55:45,610-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\20. URI 2602 Spring Boot SQL.mp4
+ 2023-10-24 06:55:45,706-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\21. URI 2602 Spring Boot JPQL.mp4
+ 2023-10-24 06:55:45,912-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\22. URI 2611 Elaborando a consulta.mp4
+ 2023-10-24 06:55:46,006-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\23. URI 2611 Spring Boot SQL e JPQL.mp4
+ 2023-10-24 06:55:46,292-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\24. URI 2621 Elaborando a consulta.mp4
+ 2023-10-24 06:55:46,408-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\25. URI 2621 Spring Boot SQL e JPQL.mp4
+ 2023-10-24 06:55:46,513-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\26. Dica - pratique um pouco se você estiver precisando.mp4
+ 2023-10-24 06:55:46,693-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\27. URI 2609 Elaborando a consulta.mp4
+ 2023-10-24 06:55:46,794-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\28. URI 2609 Spring Boot SQL e JPQL.mp4
+ 2023-10-24 06:55:46,909-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\29. URI 2737 Elaborando a consulta.mp4
+ 2023-10-24 06:55:47,113-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\30. URI 2737 Solução alternativa.mp4
+ 2023-10-24 06:55:47,206-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\31. URI 2737 Spring Boot SQL.mp4
+ 2023-10-24 06:55:47,303-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\32. URI 2990 Elaborando a consulta.mp4
+ 2023-10-24 06:55:47,484-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\33. URI 2990 Solução alternativa com LEFT JOIN.mp4
+ 2023-10-24 06:55:47,599-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\34. URI 2990 Spring Boot SQL e JPQL.mp4
+ 2023-10-24 06:55:47,709-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\35. DSCommerce consulta de produtos por nome.mp4
+ 2023-10-24 06:55:47,821-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\36. Evitando consultas lentas muitos-para-muitos.mp4
+ 2023-10-24 06:55:47,947-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\37. Evitando consultas lentas muitos-para-um com countQuery.mp4
+ 2023-10-24 06:55:48,058-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\38. DESAFIO Consulta vendas.mp4
+ 2023-10-24 06:55:48,159-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\1. AVISO Faça seu projeto salvando commits graduais.mp4
+ 2023-10-24 06:55:48,269-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\2. Visão geral do capítulo.mp4
+ 2023-10-24 06:55:48,458-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\3. Material de apoio.mp4
+ 2023-10-24 06:55:48,551-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\4. Baixando o projeto pronto.mp4
+ 2023-10-24 06:55:48,751-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\5. Ideia geral do login e controle de acesso.mp4
+ 2023-10-24 06:55:48,826-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\6. Visão geral do OAuth2.mp4
+ 2023-10-24 06:55:48,913-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\7. Login, credenciais e JWT.mp4
+ 2023-10-24 06:55:48,993-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\8. Preparando projeto para segurança.mp4
+ 2023-10-24 06:55:49,104-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\9. Modelo de dados User-Role.mp4
+ 2023-10-24 06:55:49,215-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\10. Adicionando Spring Security ao projeto.mp4
+ 2023-10-24 06:55:49,322-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\11. BCrypt password encoder.mp4
+ 2023-10-24 06:55:49,437-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\12. Implementando o checklist do Spring Security PARTE 1.mp4
+ 2023-10-24 06:55:49,545-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\13. Implementando o checklist do Spring Security PARTE 2.mp4
+ 2023-10-24 06:55:49,661-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\14. Checklist OAuth2 JWT password grant.mp4
+ 2023-10-24 06:55:49,772-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\15. Requisição de login.mp4
+ 2023-10-24 06:55:49,992-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\16. Deixando o Postman top.mp4
+ 2023-10-24 06:55:50,113-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\17. Analisando o Authorization server.mp4
+ 2023-10-24 06:55:50,212-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\18. Analisando o Resource server.mp4
+ 2023-10-24 06:55:50,335-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\19. Controle de acesso por perfil e rota.mp4
+ 2023-10-24 06:55:50,435-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\20. Adicionando segurança ao DSCommerce.mp4
+ 2023-10-24 06:55:50,538-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\21. Adicionando UserDetails e GrantedAuthority.mp4
+ 2023-10-24 06:55:50,635-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\22. Adicionando UserDetailsService.mp4
+ 2023-10-24 06:55:50,741-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\23. Adicionando OAuth2, JWT, password grant.mp4
+ 2023-10-24 06:55:50,854-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\24. Adicionando controle de acesso por perfil e rota.mp4
+ 2023-10-24 06:55:50,963-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\25. Obtendo o usuário logado.mp4
+ 2023-10-24 06:55:51,066-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\26. Consultar catálogo ProductMinDTO.mp4
+ 2023-10-24 06:55:51,182-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\27. ProductDTO com categorias.mp4
+ 2023-10-24 06:55:51,300-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\28. OrderDTO, busca de pedido por id.mp4
+ 2023-10-24 06:55:51,426-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\29. Salvando um pedido.mp4
+ 2023-10-24 06:55:51,530-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\30. Acrescentando imgUrl em OrderItemDTO.mp4
+ 2023-10-24 06:55:51,730-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\31. Controle de acesso programático self ou admin.mp4
+ 2023-10-24 06:55:51,849-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\32. Endpoint para buscar categorias.mp4
+ 2023-10-24 06:55:51,957-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\33. Ajustes nas validações de dados.mp4
+ 2023-10-24 06:55:52,065-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\34. DESAFIO Projeto Spring Boot estruturado.mp4
+ 2023-10-24 06:55:52,158-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\1. Visão geral do capítulo.mp4
+ 2023-10-24 06:55:52,244-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\2. Aviso conteúdo opcional sobre implantação.mp4
+ 2023-10-24 06:55:52,332-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\3. Sobre os serviços de implantação.mp4
+ 2023-10-24 06:55:52,435-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\4. Preparando projeto DSList para o estudo de caso com Railway.mp4
+ 2023-10-24 06:55:52,629-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\5. Perfis de projeto.mp4
+ 2023-10-24 06:55:52,713-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\6. Preparando Postgresql e pgAdmin com Docker.mp4
+ 2023-10-24 06:55:52,826-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\7. Perfis de projeto dev e prod.mp4
+ 2023-10-24 06:55:52,904-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\8. Script SQL para criar base de dados e seed.mp4
+ 2023-10-24 06:55:53,038-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\9. Homologação local com Postgresql.mp4
+ 2023-10-24 06:55:53,233-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\10. Processo de deploy no Railway.mp4
+ 2023-10-24 06:55:53,335-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\11. Teste de CI CD adicionando CORS.mp4
+ 2023-10-24 06:55:53,437-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\12. Preparando projeto DSCommerce para o estudo de caso com Heroku.mp4
+ 2023-10-24 06:55:53,550-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\13. Perfil dev de homologação local.mp4
+ 2023-10-24 06:55:53,666-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\14. Script SQL de criação da base de dados.mp4
+ 2023-10-24 06:55:53,771-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\15. Criando projeto e base de dados no Heroku.mp4
+ 2023-10-24 06:55:53,888-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\16. Preparando o projeto para implantação no Heroku.mp4
+ 2023-10-24 06:55:53,973-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\17. Implantando a aplicação.mp4
+ 2023-10-24 06:55:54,081-INFO-run ffprobe: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\18. Testando a aplicação no Heroku.mp4
+ 2023-10-24 06:55:54,184-INFO-run ffprobe: D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\1. Boas-vindas ao bônus Intensivão Java Spring DSList.ts
+ 2023-10-24 06:55:54,289-INFO-run ffprobe: D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\1. Intensivão Java Spring DSList Aula 1.ts
+ 2023-10-24 06:55:54,413-INFO-run ffprobe: D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\2. Intensivão Java Spring DSList Aula 2.ts
+ 2023-10-24 06:55:54,484-INFO-run ffprobe: D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\3. Intensivão Java Spring DSList Aula 3.ts
+ 2023-10-24 06:55:54,582-INFO-run ffprobe: D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\4. Intensivão Java Spring DSList Aula 4.ts
+ 2023-10-24 06:55:54,668-INFO-run ffprobe: D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\5. Intensivão Java Spring DSList Aula 5.ts
+ 2023-10-24 06:55:54,726-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\1. Baixe aqui o material de apoio.ts
+ 2023-10-24 06:55:54,786-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\2. Visão geral do capítulo Modelo Conceitual.ts
+ 2023-10-24 06:55:54,843-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\3. Modelo conceitual, conceitos e atributos.ts
+ 2023-10-24 06:55:54,893-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\4. Como identificar conceitos.ts
+ 2023-10-24 06:55:54,943-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\5. Exercícios de fixação.ts
+ 2023-10-24 06:55:54,994-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\6. Correção do exercício 2.ts
+ 2023-10-24 06:55:55,052-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\7. Correção do exercício 3.ts
+ 2023-10-24 06:55:55,112-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\8. Associações.ts
+ 2023-10-24 06:55:55,162-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\9. Multiplicidade de papéis.ts
+ 2023-10-24 06:55:55,211-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\10. Conceito dependente, associações obrigatórias, múltiplas e autoassociações.ts
+ 2023-10-24 06:55:55,263-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\11. Desenhando instâncias com o diagrama de objetos da UML.ts
+ 2023-10-24 06:55:55,313-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\12. Exercício resolvido 01.ts
+ 2023-10-24 06:55:55,364-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\13. Exercício resolvido 02.ts
+ 2023-10-24 06:55:55,423-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\14. Correção do exercício 03.ts
+ 2023-10-24 06:55:55,481-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\15. Correção do exercício 04.ts
+ 2023-10-24 06:55:55,537-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\16. Correção do exercício 05.ts
+ 2023-10-24 06:55:55,592-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\17. Associações todo-parte.ts
+ 2023-10-24 06:55:55,642-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\18. Classe de associação.ts
+ 2023-10-24 06:55:55,692-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\19. Exercício resolvido 01 - Parte 1.ts
+ 2023-10-24 06:55:55,748-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\20. Exercício resolvido 01 - Parte 2.ts
+ 2023-10-24 06:55:55,800-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\21. Exercício resolvido 01 - Parte 3.ts
+ 2023-10-24 06:55:55,854-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\22. Correção do exercício 02.ts
+ 2023-10-24 06:55:55,910-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\23. Correção do exercício 03.ts
+ 2023-10-24 06:55:55,964-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\24. Enumerações e tipos primitivos.ts
+ 2023-10-24 06:55:56,014-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\25. Herança - Parte 1.ts
+ 2023-10-24 06:55:56,064-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\26. Herança - Parte 2.ts
+ 2023-10-24 06:55:56,114-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\27. Exercício resolvido 01 - Parte 1.ts
+ 2023-10-24 06:55:56,170-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\28. Exercício resolvido 01 - Parte 2.ts
+ 2023-10-24 06:55:56,230-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\29. Exercício resolvido 01 - Parte 3.ts
+ 2023-10-24 06:55:56,284-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\30. Correção do exercício 02 - Parte 1.ts
+ 2023-10-24 06:55:56,339-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\31. Correção do exercício 02 - Parte 2.ts
+ 2023-10-24 06:55:56,395-INFO-run ffprobe: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\32. Correção do exercício 03.ts
+ 2023-10-24 06:55:56,510-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\1. Boas-vindas geral.ts
+ 2023-10-24 06:55:56,510-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\2. Visão geral do capítulo.ts
+ 2023-10-24 06:55:56,511-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\3. Versão do Java.ts
+ 2023-10-24 06:55:56,511-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\4. Histórico e edições do Java.ts
+ 2023-10-24 06:55:56,512-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\5. JVM - Máquina Virtual do Java.ts
+ 2023-10-24 06:55:56,512-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\6. Estrutura de uma aplicação Java.ts
+ 2023-10-24 06:55:56,512-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\7. Instalar Java JDK no Windows.ts
+ 2023-10-24 06:55:56,513-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\8. Instalar Java JDK no Linux e Mac.ts
+ 2023-10-24 06:55:56,513-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\9. Instalar o Eclipse.ts
+ 2023-10-24 06:55:56,513-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\10. Primeiro programa Java e Eclipse.ts
+ 2023-10-24 06:55:56,514-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:56,514-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\2. Expressões aritméticas.ts
+ 2023-10-24 06:55:56,514-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\3. Variáveis e tipos básicos de Java.ts
+ 2023-10-24 06:55:56,514-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\4. As três operações básicas de programação.ts
+ 2023-10-24 06:55:56,515-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\5. Saída de dados em Java.ts
+ 2023-10-24 06:55:56,515-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\6. Processamento de dados em Java, Casting.ts
+ 2023-10-24 06:55:56,515-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\7. Entrada de dados em Java - PARTE 1.ts
+ 2023-10-24 06:55:56,516-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\8. Entrada de dados em Java - PARTE 2.ts
+ 2023-10-24 06:55:56,516-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\9. Funções matemáticas em Java.ts
+ 2023-10-24 06:55:56,516-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\10. Exercícios de fixação.ts
+ 2023-10-24 06:55:56,517-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:56,517-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\2. Expressões comparativas.ts
+ 2023-10-24 06:55:56,517-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\3. Expressões lógicas.ts
+ 2023-10-24 06:55:56,517-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\4. Estrutura condicional.ts
+ 2023-10-24 06:55:56,518-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\5. Exercícios de fixação.ts
+ 2023-10-24 06:55:56,518-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\6. Sintaxe opcional - operadores de atribuição cumulativa.ts
+ 2023-10-24 06:55:56,518-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\7. Sintaxe opcional - estrutura switch-case.ts
+ 2023-10-24 06:55:56,519-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\8. Expressão condicional ternária.ts
+ 2023-10-24 06:55:56,519-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\9. Escopo e inicialização.ts
+ 2023-10-24 06:55:56,519-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:56,519-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\2. Como utilizar o DEBUG no Eclipse (execução passo a passo).ts
+ 2023-10-24 06:55:56,520-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\3. Estrutura repetitiva enquanto (while).ts
+ 2023-10-24 06:55:56,520-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\4. Teste de mesa com estrutura repetitiva enquanto (720p).ts
+ 2023-10-24 06:55:56,520-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\5. Exercícios de testes de mesa com while.ts
+ 2023-10-24 06:55:56,521-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\6. Estrutura repetitiva para (for).ts
+ 2023-10-24 06:55:56,521-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\7. Teste de mesa com estrutura repetitiva para (720p).ts
+ 2023-10-24 06:55:56,521-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\8. Exercícios de testes de mesa com for.ts
+ 2023-10-24 06:55:56,521-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\9. Estrutura repetitiva faça-enquanto.ts
+ 2023-10-24 06:55:56,522-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\10. Exercícios de fixação.ts
+ 2023-10-24 06:55:56,522-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\05. Outros tópicos básicos em Java\1. Restrições e convenções para nomes.ts
+ 2023-10-24 06:55:56,522-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\05. Outros tópicos básicos em Java\2. Comentários em Java (básico).ts
+ 2023-10-24 06:55:56,523-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\05. Outros tópicos básicos em Java\3. Funções interessantes para String.ts
+ 2023-10-24 06:55:56,523-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\05. Outros tópicos básicos em Java\4. Funções (sintaxe).ts
+ 2023-10-24 06:55:56,523-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:56,523-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\2. Resolvendo um problema sem orientacao a objetos.ts
+ 2023-10-24 06:55:56,524-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\3. Criando uma classe com três atributos para representar melhor o triângulo.ts
+ 2023-10-24 06:55:56,524-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\4. Criando um método para obtermos os benefícios de reaproveitamento e delegação.ts
+ 2023-10-24 06:55:56,524-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\5. Começando a resolver um segundo problema exemplo.ts
+ 2023-10-24 06:55:56,525-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\6. Object e toString.ts
+ 2023-10-24 06:55:56,525-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\7. Finalizando o programa.ts
+ 2023-10-24 06:55:56,525-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\8. Exercícios de fixação.ts
+ 2023-10-24 06:55:56,525-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\9. Membros estáticos - Parte 1.ts
+ 2023-10-24 06:55:56,526-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\10. Membros estáticos - Parte 2.ts
+ 2023-10-24 06:55:56,526-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\11. Exercício de fixação.ts
+ 2023-10-24 06:55:56,526-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:56,527-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\2. Construtores.ts
+ 2023-10-24 06:55:56,527-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\3. Palavra this.ts
+ 2023-10-24 06:55:56,527-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\4. Sobrecarga.ts
+ 2023-10-24 06:55:56,528-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\5. Encapsulamento.ts
+ 2023-10-24 06:55:56,528-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\6. Gerando automaticamente construtores, getters e setters com Eclipse.ts
+ 2023-10-24 06:55:56,528-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\7. Modificadores de acesso.ts
+ 2023-10-24 06:55:56,528-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\8. Exercício de fixação.ts
+ 2023-10-24 06:55:56,529-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\9. Correção do exercício de fixação - Parte 1.ts
+ 2023-10-24 06:55:56,529-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\10. Correção do exercício de fixação - Parte 2.ts
+ 2023-10-24 06:55:56,529-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:56,530-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\2. Tipos referência vs tipos valor.ts
+ 2023-10-24 06:55:56,530-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\3. Desalocação de memória - garbage collector e escopo local.ts
+ 2023-10-24 06:55:56,530-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\4. Vetores - Parte 1.ts
+ 2023-10-24 06:55:56,530-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\5. Vetores - Parte 2.ts
+ 2023-10-24 06:55:56,531-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\6. Exercícios de fixação sobre vetores.ts
+ 2023-10-24 06:55:56,531-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\7. Boxing, unboxing e wrapper classes.ts
+ 2023-10-24 06:55:56,531-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\8. Laço for each.ts
+ 2023-10-24 06:55:56,532-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\9. Listas - Parte 1.ts
+ 2023-10-24 06:55:56,533-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\10. Listas - Parte 2.ts
+ 2023-10-24 06:55:56,533-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\11. Exercício de fixação sobre listas.ts
+ 2023-10-24 06:55:56,534-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\09. Matrizes\1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:56,534-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\09. Matrizes\2. Matrizes.ts
+ 2023-10-24 06:55:56,534-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\09. Matrizes\3. Exercício resolvido.ts
+ 2023-10-24 06:55:56,534-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\09. Matrizes\4. Exercícios de fixação.ts
+ 2023-10-24 06:55:56,535-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\1. Introdução a data-hora e duração.ts
+ 2023-10-24 06:55:56,535-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\2. Entendendo Timezone (fuso horário).ts
+ 2023-10-24 06:55:56,535-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\3. Padrão ISO 8601.ts
+ 2023-10-24 06:55:56,536-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\4. Operações importantes com data-hora.ts
+ 2023-10-24 06:55:56,536-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\5. Instanciando data-hora em Java.ts
+ 2023-10-24 06:55:56,536-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\6. Convertendo data-hora para texto.ts
+ 2023-10-24 06:55:56,536-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\7. Convertendo data-hora global para local, obtendo dados.ts
+ 2023-10-24 06:55:56,537-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\8. Cálculos com data-hora.ts
+ 2023-10-24 06:55:56,537-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:56,537-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\2. Enumerações.ts
+ 2023-10-24 06:55:56,538-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\3. Vamos falar um pouco de design.ts
+ 2023-10-24 06:55:56,538-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\4. Composição.ts
+ 2023-10-24 06:55:56,538-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\5. Exerício resolvido 1 - Parte 1.ts
+ 2023-10-24 06:55:56,539-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\6. Exerício resolvido 1 - Parte 2.ts
+ 2023-10-24 06:55:56,539-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\7. Exercício resolvido 2.ts
+ 2023-10-24 06:55:56,539-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\8. Exercício proposto.ts
+ 2023-10-24 06:55:56,539-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\1. Visão geral do capítulo.ts
+ 2023-10-24 06:55:56,540-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\2. Herança.ts
+ 2023-10-24 06:55:56,540-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\3. Upcasting e downcasting.ts
+ 2023-10-24 06:55:56,540-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\4. Sobreposição, palavra super, anotação @Override.ts
+ 2023-10-24 06:55:56,541-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\5. Classes e métodos final.ts
+ 2023-10-24 06:55:56,541-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\6. Introdução ao polimorfismo.ts
+ 2023-10-24 06:55:56,541-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\7. Exercício resolvido.ts
+ 2023-10-24 06:55:56,541-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\8. Exercício de fixação.ts
+ 2023-10-24 06:55:56,542-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\9. Classes abstratas.ts
+ 2023-10-24 06:55:56,542-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\10. Métodos abstratos.ts
+ 2023-10-24 06:55:56,542-INFO-parsing: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\11. Exercício de fixação.ts
+ 2023-10-24 06:55:56,543-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\1. Componentes de Injeção de Dependencia\2. Material de apoio do capítulo.mp4
+ 2023-10-24 06:55:56,543-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\1. Componentes de Injeção de Dependencia\3. Visão geral do Java Spring Essential.mp4
+ 2023-10-24 06:55:56,543-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\1. Componentes de Injeção de Dependencia\4. Sistema e componentes.mp4
+ 2023-10-24 06:55:56,543-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\1. Componentes de Injeção de Dependencia\5. Exemplo didático.mp4
+ 2023-10-24 06:55:56,544-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\1. Componentes de Injeção de Dependencia\6. Inversão de controle e injeção de dependência.mp4
+ 2023-10-24 06:55:56,544-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\1. Componentes de Injeção de Dependencia\7. Trocando a dependência sem abrir o componente pai.mp4
+ 2023-10-24 06:55:56,544-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\1. Componentes de Injeção de Dependencia\8. Frameworks.mp4
+ 2023-10-24 06:55:56,545-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\1. Componentes de Injeção de Dependencia\9. Criando projeto Spring Boot.mp4
+ 2023-10-24 06:55:56,545-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\1. Componentes de Injeção de Dependencia\10. Importando o projeto no STS e Intellij.mp4
+ 2023-10-24 06:55:56,545-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\1. Componentes de Injeção de Dependencia\11. Implementando o projeto no Spring Boot.mp4
+ 2023-10-24 06:55:56,545-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\1. Componentes de Injeção de Dependencia\12. DESAFIO Componentes e injeção de dependência.mp4
+ 2023-10-24 06:55:56,546-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\1. Apresentação do capítulo.mp4
+ 2023-10-24 06:55:56,546-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\2. Material de apoio do capítulo.mp4
+ 2023-10-24 06:55:56,546-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\3. Antes de prosseguir com o capítulo.mp4
+ 2023-10-24 06:55:56,547-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\4. Documento de requisitos do sistema DSCommerce.mp4
+ 2023-10-24 06:55:56,547-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\5. Baixando o projeto pronto.mp4
+ 2023-10-24 06:55:56,547-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\6. Criando o projeto DSCommerce.mp4
+ 2023-10-24 06:55:56,548-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\7. Entidade User, banco H2.mp4
+ 2023-10-24 06:55:56,549-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\8. Order, Enum, relacionamento muitos-para-um.mp4
+ 2023-10-24 06:55:56,549-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\9. Payment, relacionamento um-para-um.mp4
+ 2023-10-24 06:55:56,549-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\10. Muitos-para-muitos, column unique e text.mp4
+ 2023-10-24 06:55:56,550-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\11. Muitos-para-muitos com classe de associação PARTE 1.mp4
+ 2023-10-24 06:55:56,550-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\12. Muitos-para-muitos com classe de associação PARTE 2.mp4
+ 2023-10-24 06:55:56,550-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\13. Seeding da base de dados.mp4
+ 2023-10-24 06:55:56,551-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\14. Gerando equals e hashCode das entidades.mp4
+ 2023-10-24 06:55:56,551-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\2. Modelo de Domínio e ORM\15.  Desafio Modelo de domínio e ORM.mp4
+ 2023-10-24 06:55:56,551-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\1. Visão geral do capítulo.mp4
+ 2023-10-24 06:55:56,551-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\2. Material de apoio do capítulo.mp4
+ 2023-10-24 06:55:56,552-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\3. O que é uma API REST.mp4
+ 2023-10-24 06:55:56,552-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\4. Recursos, URL, parâmetros de consulta e de rota.mp4
+ 2023-10-24 06:55:56,552-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\5. Padrões de URL, verbos HTTP, códigos de resposta.mp4
+ 2023-10-24 06:55:56,553-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\6. Padrão camadas.mp4
+ 2023-10-24 06:55:56,553-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\7. Aviso - DSCommerce preparado.mp4
+ 2023-10-24 06:55:56,553-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\8. Primeiro teste da API.mp4
+ 2023-10-24 06:55:56,553-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\9. Primeiro teste com Repository.mp4
+ 2023-10-24 06:55:56,554-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\10. Criando DTO e estruturando camadas.mp4
+ 2023-10-24 06:55:56,554-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\11. Dica da biblioteca ModelMapper para DTO.mp4
+ 2023-10-24 06:55:56,554-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\12. CRUD.mp4
+ 2023-10-24 06:55:56,555-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\13. Busca paginada de produtos.mp4
+ 2023-10-24 06:55:56,555-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\14. Inserindo novo produto com POST.mp4
+ 2023-10-24 06:55:56,555-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\15. Customizando resposta com ResponseEntity.mp4
+ 2023-10-24 06:55:56,555-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\16. Atualizando produto com PUT.mp4
+ 2023-10-24 06:55:56,556-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\17. Deletando produto com DELETE.mp4
+ 2023-10-24 06:55:56,556-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\18. Criando exceções de serviço customizadas.mp4
+ 2023-10-24 06:55:56,556-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\19. Tratando exceção com resposta customizada.mp4
+ 2023-10-24 06:55:56,557-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\20. Implementando outras exceções.mp4
+ 2023-10-24 06:55:56,557-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\21. Validação com Bean Validation.mp4
+ 2023-10-24 06:55:56,557-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\22. Customizando a resposta da validação.mp4
+ 2023-10-24 06:55:56,557-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\3. API REST, camadas, CRUD, exceções, validações\23. DESAFIO CRUD de clientes.mp4
+ 2023-10-24 06:55:56,558-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\1. Visão geral do capítulo.mp4
+ 2023-10-24 06:55:56,558-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\2. Material de apoio do capítulo.mp4
+ 2023-10-24 06:55:56,559-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\3. Sessão JPA e estados de entidades.mp4
+ 2023-10-24 06:55:56,559-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\4. Salvando entidade associada para um PARTE 1.mp4
+ 2023-10-24 06:55:56,559-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\5. Salvando entidade associada para um PARTE 2.mp4
+ 2023-10-24 06:55:56,560-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\6. Salvando entidade associada para um PARTE 3.mp4
+ 2023-10-24 06:55:56,560-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\7. Salvando entidades associadas para muitos.mp4
+ 2023-10-24 06:55:56,560-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\8. Evitando degradação de performance.mp4
+ 2023-10-24 06:55:56,561-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\9. Carregamento EAGER e LAZY.mp4
+ 2023-10-24 06:55:56,561-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\10. Analisando o carregamento lazy dos funcionários.mp4
+ 2023-10-24 06:55:56,563-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\11. Alterando o atributo fetch dos relacionamentos.mp4
+ 2023-10-24 06:55:56,563-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\12. Otimizando consultas com a cláusula JOIN FETCH.mp4
+ 2023-10-24 06:55:56,563-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\13. Entendendo Transactional e open-in-view.mp4
+ 2023-10-24 06:55:56,563-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\14. Consultas com Query Methods.mp4
+ 2023-10-24 06:55:56,564-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\15. Introdução sobre JPQL.mp4
+ 2023-10-24 06:55:56,565-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\16. Polêmica vale a pena especializar na JPQL.mp4
+ 2023-10-24 06:55:56,565-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\17. Preparando para os estudos de caso de consultas.mp4
+ 2023-10-24 06:55:56,566-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\18. URI 2602 - Elaborando a consulta.mp4
+ 2023-10-24 06:55:56,566-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\19. Baixando os projetos iniciados dos estudos de caso.mp4
+ 2023-10-24 06:55:56,566-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\20. URI 2602 Spring Boot SQL.mp4
+ 2023-10-24 06:55:56,567-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\21. URI 2602 Spring Boot JPQL.mp4
+ 2023-10-24 06:55:56,567-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\22. URI 2611 Elaborando a consulta.mp4
+ 2023-10-24 06:55:56,567-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\23. URI 2611 Spring Boot SQL e JPQL.mp4
+ 2023-10-24 06:55:56,568-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\24. URI 2621 Elaborando a consulta.mp4
+ 2023-10-24 06:55:56,568-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\25. URI 2621 Spring Boot SQL e JPQL.mp4
+ 2023-10-24 06:55:56,568-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\26. Dica - pratique um pouco se você estiver precisando.mp4
+ 2023-10-24 06:55:56,569-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\27. URI 2609 Elaborando a consulta.mp4
+ 2023-10-24 06:55:56,569-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\28. URI 2609 Spring Boot SQL e JPQL.mp4
+ 2023-10-24 06:55:56,569-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\29. URI 2737 Elaborando a consulta.mp4
+ 2023-10-24 06:55:56,569-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\30. URI 2737 Solução alternativa.mp4
+ 2023-10-24 06:55:56,570-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\31. URI 2737 Spring Boot SQL.mp4
+ 2023-10-24 06:55:56,570-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\32. URI 2990 Elaborando a consulta.mp4
+ 2023-10-24 06:55:56,570-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\33. URI 2990 Solução alternativa com LEFT JOIN.mp4
+ 2023-10-24 06:55:56,571-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\34. URI 2990 Spring Boot SQL e JPQL.mp4
+ 2023-10-24 06:55:56,571-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\35. DSCommerce consulta de produtos por nome.mp4
+ 2023-10-24 06:55:56,571-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\36. Evitando consultas lentas muitos-para-muitos.mp4
+ 2023-10-24 06:55:56,572-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\37. Evitando consultas lentas muitos-para-um com countQuery.mp4
+ 2023-10-24 06:55:56,572-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\4. JPA, consultas SQL e JPQL\38. DESAFIO Consulta vendas.mp4
+ 2023-10-24 06:55:56,572-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\1. AVISO Faça seu projeto salvando commits graduais.mp4
+ 2023-10-24 06:55:56,572-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\2. Visão geral do capítulo.mp4
+ 2023-10-24 06:55:56,573-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\3. Material de apoio.mp4
+ 2023-10-24 06:55:56,573-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\4. Baixando o projeto pronto.mp4
+ 2023-10-24 06:55:56,573-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\5. Ideia geral do login e controle de acesso.mp4
+ 2023-10-24 06:55:56,574-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\6. Visão geral do OAuth2.mp4
+ 2023-10-24 06:55:56,574-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\7. Login, credenciais e JWT.mp4
+ 2023-10-24 06:55:56,574-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\8. Preparando projeto para segurança.mp4
+ 2023-10-24 06:55:56,574-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\9. Modelo de dados User-Role.mp4
+ 2023-10-24 06:55:56,575-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\10. Adicionando Spring Security ao projeto.mp4
+ 2023-10-24 06:55:56,575-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\11. BCrypt password encoder.mp4
+ 2023-10-24 06:55:56,575-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\12. Implementando o checklist do Spring Security PARTE 1.mp4
+ 2023-10-24 06:55:56,576-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\13. Implementando o checklist do Spring Security PARTE 2.mp4
+ 2023-10-24 06:55:56,576-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\14. Checklist OAuth2 JWT password grant.mp4
+ 2023-10-24 06:55:56,576-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\15. Requisição de login.mp4
+ 2023-10-24 06:55:56,576-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\16. Deixando o Postman top.mp4
+ 2023-10-24 06:55:56,577-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\17. Analisando o Authorization server.mp4
+ 2023-10-24 06:55:56,577-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\18. Analisando o Resource server.mp4
+ 2023-10-24 06:55:56,577-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\19. Controle de acesso por perfil e rota.mp4
+ 2023-10-24 06:55:56,578-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\20. Adicionando segurança ao DSCommerce.mp4
+ 2023-10-24 06:55:56,578-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\21. Adicionando UserDetails e GrantedAuthority.mp4
+ 2023-10-24 06:55:56,578-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\22. Adicionando UserDetailsService.mp4
+ 2023-10-24 06:55:56,578-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\23. Adicionando OAuth2, JWT, password grant.mp4
+ 2023-10-24 06:55:56,579-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\24. Adicionando controle de acesso por perfil e rota.mp4
+ 2023-10-24 06:55:56,579-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\25. Obtendo o usuário logado.mp4
+ 2023-10-24 06:55:56,579-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\26. Consultar catálogo ProductMinDTO.mp4
+ 2023-10-24 06:55:56,580-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\27. ProductDTO com categorias.mp4
+ 2023-10-24 06:55:56,581-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\28. OrderDTO, busca de pedido por id.mp4
+ 2023-10-24 06:55:56,581-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\29. Salvando um pedido.mp4
+ 2023-10-24 06:55:56,582-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\30. Acrescentando imgUrl em OrderItemDTO.mp4
+ 2023-10-24 06:55:56,582-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\31. Controle de acesso programático self ou admin.mp4
+ 2023-10-24 06:55:56,582-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\32. Endpoint para buscar categorias.mp4
+ 2023-10-24 06:55:56,582-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\33. Ajustes nas validações de dados.mp4
+ 2023-10-24 06:55:56,583-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\5. Login e controle de acesso\34. DESAFIO Projeto Spring Boot estruturado.mp4
+ 2023-10-24 06:55:56,583-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\1. Visão geral do capítulo.mp4
+ 2023-10-24 06:55:56,583-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\2. Aviso conteúdo opcional sobre implantação.mp4
+ 2023-10-24 06:55:56,584-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\3. Sobre os serviços de implantação.mp4
+ 2023-10-24 06:55:56,584-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\4. Preparando projeto DSList para o estudo de caso com Railway.mp4
+ 2023-10-24 06:55:56,584-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\5. Perfis de projeto.mp4
+ 2023-10-24 06:55:56,585-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\6. Preparando Postgresql e pgAdmin com Docker.mp4
+ 2023-10-24 06:55:56,585-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\7. Perfis de projeto dev e prod.mp4
+ 2023-10-24 06:55:56,585-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\8. Script SQL para criar base de dados e seed.mp4
+ 2023-10-24 06:55:56,585-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\9. Homologação local com Postgresql.mp4
+ 2023-10-24 06:55:56,586-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\10. Processo de deploy no Railway.mp4
+ 2023-10-24 06:55:56,586-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\11. Teste de CI CD adicionando CORS.mp4
+ 2023-10-24 06:55:56,586-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\12. Preparando projeto DSCommerce para o estudo de caso com Heroku.mp4
+ 2023-10-24 06:55:56,587-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\13. Perfil dev de homologação local.mp4
+ 2023-10-24 06:55:56,587-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\14. Script SQL de criação da base de dados.mp4
+ 2023-10-24 06:55:56,587-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\15. Criando projeto e base de dados no Heroku.mp4
+ 2023-10-24 06:55:56,587-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\16. Preparando o projeto para implantação no Heroku.mp4
+ 2023-10-24 06:55:56,588-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\17. Implantando a aplicação.mp4
+ 2023-10-24 06:55:56,588-INFO-parsing: D:\Nélio Alves Dev Superior\2. Java Spring Professional\6. Homologação e implantação com CICD\18. Testando a aplicação no Heroku.mp4
+ 2023-10-24 06:55:56,588-INFO-parsing: D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\1. Boas-vindas ao bônus Intensivão Java Spring DSList.ts
+ 2023-10-24 06:55:56,589-INFO-parsing: D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\1. Intensivão Java Spring DSList Aula 1.ts
+ 2023-10-24 06:55:56,589-INFO-parsing: D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\2. Intensivão Java Spring DSList Aula 2.ts
+ 2023-10-24 06:55:56,589-INFO-parsing: D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\3. Intensivão Java Spring DSList Aula 3.ts
+ 2023-10-24 06:55:56,589-INFO-parsing: D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\4. Intensivão Java Spring DSList Aula 4.ts
+ 2023-10-24 06:55:56,590-INFO-parsing: D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\5. Intensivão Java Spring DSList Aula 5.ts
+ 2023-10-24 06:55:56,590-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\1. Baixe aqui o material de apoio.ts
+ 2023-10-24 06:55:56,590-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\2. Visão geral do capítulo Modelo Conceitual.ts
+ 2023-10-24 06:55:56,591-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\3. Modelo conceitual, conceitos e atributos.ts
+ 2023-10-24 06:55:56,591-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\4. Como identificar conceitos.ts
+ 2023-10-24 06:55:56,591-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\5. Exercícios de fixação.ts
+ 2023-10-24 06:55:56,592-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\6. Correção do exercício 2.ts
+ 2023-10-24 06:55:56,592-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\7. Correção do exercício 3.ts
+ 2023-10-24 06:55:56,592-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\8. Associações.ts
+ 2023-10-24 06:55:56,592-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\9. Multiplicidade de papéis.ts
+ 2023-10-24 06:55:56,593-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\10. Conceito dependente, associações obrigatórias, múltiplas e autoassociações.ts
+ 2023-10-24 06:55:56,593-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\11. Desenhando instâncias com o diagrama de objetos da UML.ts
+ 2023-10-24 06:55:56,593-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\12. Exercício resolvido 01.ts
+ 2023-10-24 06:55:56,594-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\13. Exercício resolvido 02.ts
+ 2023-10-24 06:55:56,594-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\14. Correção do exercício 03.ts
+ 2023-10-24 06:55:56,594-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\15. Correção do exercício 04.ts
+ 2023-10-24 06:55:56,594-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\16. Correção do exercício 05.ts
+ 2023-10-24 06:55:56,595-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\17. Associações todo-parte.ts
+ 2023-10-24 06:55:56,595-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\18. Classe de associação.ts
+ 2023-10-24 06:55:56,595-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\19. Exercício resolvido 01 - Parte 1.ts
+ 2023-10-24 06:55:56,596-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\20. Exercício resolvido 01 - Parte 2.ts
+ 2023-10-24 06:55:56,597-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\21. Exercício resolvido 01 - Parte 3.ts
+ 2023-10-24 06:55:56,597-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\22. Correção do exercício 02.ts
+ 2023-10-24 06:55:56,598-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\23. Correção do exercício 03.ts
+ 2023-10-24 06:55:56,598-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\24. Enumerações e tipos primitivos.ts
+ 2023-10-24 06:55:56,598-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\25. Herança - Parte 1.ts
+ 2023-10-24 06:55:56,598-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\26. Herança - Parte 2.ts
+ 2023-10-24 06:55:56,599-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\27. Exercício resolvido 01 - Parte 1.ts
+ 2023-10-24 06:55:56,599-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\28. Exercício resolvido 01 - Parte 2.ts
+ 2023-10-24 06:55:56,599-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\29. Exercício resolvido 01 - Parte 3.ts
+ 2023-10-24 06:55:56,600-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\30. Correção do exercício 02 - Parte 1.ts
+ 2023-10-24 06:55:56,600-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\31. Correção do exercício 02 - Parte 2.ts
+ 2023-10-24 06:55:56,600-INFO-parsing: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\32. Correção do exercício 03.ts
+ 2023-10-24 06:55:56,639-INFO-There are 144 videos to convert.
+ 2023-10-24 06:55:56,640-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\1. Boas-vindas geral.ts
+ 2023-10-24 06:55:56,640-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\1. Boas-vindas geral.ts
+ 2023-10-24 06:55:57,235-INFO-Done
+ 2023-10-24 06:55:57,253-INFO-There are 143 videos to convert.
+ 2023-10-24 06:55:57,254-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\2. Visão geral do capítulo.ts
+ 2023-10-24 06:55:57,254-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\2. Visão geral do capítulo.ts
+ 2023-10-24 06:55:57,364-INFO-Done
+ 2023-10-24 06:55:57,380-INFO-There are 142 videos to convert.
+ 2023-10-24 06:55:57,380-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\3. Versão do Java.ts
+ 2023-10-24 06:55:57,380-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\3. Versão do Java.ts
+ 2023-10-24 06:55:57,636-INFO-Done
+ 2023-10-24 06:55:57,652-INFO-There are 141 videos to convert.
+ 2023-10-24 06:55:57,652-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\4. Histórico e edições do Java.ts
+ 2023-10-24 06:55:57,653-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\4. Histórico e edições do Java.ts
+ 2023-10-24 06:55:57,958-INFO-Done
+ 2023-10-24 06:55:57,973-INFO-There are 140 videos to convert.
+ 2023-10-24 06:55:57,973-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\5. JVM - Máquina Virtual do Java.ts
+ 2023-10-24 06:55:57,973-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\5. JVM - Máquina Virtual do Java.ts
+ 2023-10-24 06:55:58,403-INFO-Done
+ 2023-10-24 06:55:58,422-INFO-There are 139 videos to convert.
+ 2023-10-24 06:55:58,422-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\6. Estrutura de uma aplicação Java.ts
+ 2023-10-24 06:55:58,426-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\6. Estrutura de uma aplicação Java.ts
+ 2023-10-24 06:55:58,680-INFO-Done
+ 2023-10-24 06:55:58,697-INFO-There are 138 videos to convert.
+ 2023-10-24 06:55:58,697-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\7. Instalar Java JDK no Windows.ts
+ 2023-10-24 06:55:58,697-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\7. Instalar Java JDK no Windows.ts
+ 2023-10-24 06:55:58,974-INFO-Done
+ 2023-10-24 06:55:58,989-INFO-There are 137 videos to convert.
+ 2023-10-24 06:55:58,989-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\8. Instalar Java JDK no Linux e Mac.ts
+ 2023-10-24 06:55:58,990-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\8. Instalar Java JDK no Linux e Mac.ts
+ 2023-10-24 06:55:59,248-INFO-Done
+ 2023-10-24 06:55:59,266-INFO-There are 136 videos to convert.
+ 2023-10-24 06:55:59,266-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\9. Instalar o Eclipse.ts
+ 2023-10-24 06:55:59,266-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\9. Instalar o Eclipse.ts
+ 2023-10-24 06:55:59,700-INFO-Done
+ 2023-10-24 06:55:59,716-INFO-There are 135 videos to convert.
+ 2023-10-24 06:55:59,717-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\10. Primeiro programa Java e Eclipse.ts
+ 2023-10-24 06:55:59,717-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\01. Introdução à linguagem Java\10. Primeiro programa Java e Eclipse.ts
+ 2023-10-24 06:56:00,916-INFO-Done
+ 2023-10-24 06:56:00,932-INFO-There are 134 videos to convert.
+ 2023-10-24 06:56:00,933-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\1. Visão geral do capítulo.ts
+ 2023-10-24 06:56:00,933-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\1. Visão geral do capítulo.ts
+ 2023-10-24 06:56:01,095-INFO-Done
+ 2023-10-24 06:56:01,110-INFO-There are 133 videos to convert.
+ 2023-10-24 06:56:01,110-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\2. Expressões aritméticas.ts
+ 2023-10-24 06:56:01,111-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\2. Expressões aritméticas.ts
+ 2023-10-24 06:56:01,817-INFO-Done
+ 2023-10-24 06:56:01,832-INFO-There are 132 videos to convert.
+ 2023-10-24 06:56:01,833-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\3. Variáveis e tipos básicos de Java.ts
+ 2023-10-24 06:56:01,833-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\3. Variáveis e tipos básicos de Java.ts
+ 2023-10-24 06:56:03,139-INFO-Done
+ 2023-10-24 06:56:03,155-INFO-There are 131 videos to convert.
+ 2023-10-24 06:56:03,156-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\4. As três operações básicas de programação.ts
+ 2023-10-24 06:56:03,156-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\4. As três operações básicas de programação.ts
+ 2023-10-24 06:56:03,359-INFO-Done
+ 2023-10-24 06:56:03,376-INFO-There are 130 videos to convert.
+ 2023-10-24 06:56:03,376-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\5. Saída de dados em Java.ts
+ 2023-10-24 06:56:03,376-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\5. Saída de dados em Java.ts
+ 2023-10-24 06:56:04,914-INFO-Done
+ 2023-10-24 06:56:04,931-INFO-There are 129 videos to convert.
+ 2023-10-24 06:56:04,931-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\6. Processamento de dados em Java, Casting.ts
+ 2023-10-24 06:56:04,931-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\6. Processamento de dados em Java, Casting.ts
+ 2023-10-24 06:56:06,064-INFO-Done
+ 2023-10-24 06:56:06,081-INFO-There are 128 videos to convert.
+ 2023-10-24 06:56:06,082-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\7. Entrada de dados em Java - PARTE 1.ts
+ 2023-10-24 06:56:06,082-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\7. Entrada de dados em Java - PARTE 1.ts
+ 2023-10-24 06:56:07,953-INFO-Done
+ 2023-10-24 06:56:07,970-INFO-There are 127 videos to convert.
+ 2023-10-24 06:56:07,970-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\8. Entrada de dados em Java - PARTE 2.ts
+ 2023-10-24 06:56:07,971-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\8. Entrada de dados em Java - PARTE 2.ts
+ 2023-10-24 06:56:09,008-INFO-Done
+ 2023-10-24 06:56:09,026-INFO-There are 126 videos to convert.
+ 2023-10-24 06:56:09,026-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\9. Funções matemáticas em Java.ts
+ 2023-10-24 06:56:09,026-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\9. Funções matemáticas em Java.ts
+ 2023-10-24 06:56:10,340-INFO-Done
+ 2023-10-24 06:56:10,356-INFO-There are 125 videos to convert.
+ 2023-10-24 06:56:10,356-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\10. Exercícios de fixação.ts
+ 2023-10-24 06:56:10,357-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\02. Estrutura sequencial\10. Exercícios de fixação.ts
+ 2023-10-24 06:56:11,326-INFO-Done
+ 2023-10-24 06:56:11,343-INFO-There are 124 videos to convert.
+ 2023-10-24 06:56:11,343-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\1. Visão geral do capítulo.ts
+ 2023-10-24 06:56:11,343-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\1. Visão geral do capítulo.ts
+ 2023-10-24 06:56:11,511-INFO-Done
+ 2023-10-24 06:56:11,527-INFO-There are 123 videos to convert.
+ 2023-10-24 06:56:11,528-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\2. Expressões comparativas.ts
+ 2023-10-24 06:56:11,528-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\2. Expressões comparativas.ts
+ 2023-10-24 06:56:11,717-INFO-Done
+ 2023-10-24 06:56:11,733-INFO-There are 122 videos to convert.
+ 2023-10-24 06:56:11,734-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\3. Expressões lógicas.ts
+ 2023-10-24 06:56:11,734-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\3. Expressões lógicas.ts
+ 2023-10-24 06:56:13,011-INFO-Done
+ 2023-10-24 06:56:13,028-INFO-There are 121 videos to convert.
+ 2023-10-24 06:56:13,029-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\4. Estrutura condicional.ts
+ 2023-10-24 06:56:13,029-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\4. Estrutura condicional.ts
+ 2023-10-24 06:56:14,540-INFO-Done
+ 2023-10-24 06:56:14,557-INFO-There are 120 videos to convert.
+ 2023-10-24 06:56:14,558-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\5. Exercícios de fixação.ts
+ 2023-10-24 06:56:14,558-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\5. Exercícios de fixação.ts
+ 2023-10-24 06:56:15,409-INFO-Done
+ 2023-10-24 06:56:15,426-INFO-There are 119 videos to convert.
+ 2023-10-24 06:56:15,426-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\6. Sintaxe opcional - operadores de atribuição cumulativa.ts
+ 2023-10-24 06:56:15,426-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\6. Sintaxe opcional - operadores de atribuição cumulativa.ts
+ 2023-10-24 06:56:15,920-INFO-Done
+ 2023-10-24 06:56:15,937-INFO-There are 118 videos to convert.
+ 2023-10-24 06:56:15,938-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\7. Sintaxe opcional - estrutura switch-case.ts
+ 2023-10-24 06:56:15,938-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\7. Sintaxe opcional - estrutura switch-case.ts
+ 2023-10-24 06:56:17,088-INFO-Done
+ 2023-10-24 06:56:17,105-INFO-There are 117 videos to convert.
+ 2023-10-24 06:56:17,105-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\8. Expressão condicional ternária.ts
+ 2023-10-24 06:56:17,105-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\8. Expressão condicional ternária.ts
+ 2023-10-24 06:56:17,388-INFO-Done
+ 2023-10-24 06:56:17,404-INFO-There are 116 videos to convert.
+ 2023-10-24 06:56:17,405-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\9. Escopo e inicialização.ts
+ 2023-10-24 06:56:17,405-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\03. Estrutura condicional\9. Escopo e inicialização.ts
+ 2023-10-24 06:56:18,685-INFO-Done
+ 2023-10-24 06:56:18,702-INFO-There are 115 videos to convert.
+ 2023-10-24 06:56:18,702-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\1. Visão geral do capítulo.ts
+ 2023-10-24 06:56:18,702-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\1. Visão geral do capítulo.ts
+ 2023-10-24 06:56:18,854-INFO-Done
+ 2023-10-24 06:56:18,872-INFO-There are 114 videos to convert.
+ 2023-10-24 06:56:18,872-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\2. Como utilizar o DEBUG no Eclipse (execução passo a passo).ts
+ 2023-10-24 06:56:18,873-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\2. Como utilizar o DEBUG no Eclipse (execução passo a passo).ts
+ 2023-10-24 06:56:20,145-INFO-Done
+ 2023-10-24 06:56:20,162-INFO-There are 113 videos to convert.
+ 2023-10-24 06:56:20,162-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\3. Estrutura repetitiva enquanto (while).ts
+ 2023-10-24 06:56:20,163-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\3. Estrutura repetitiva enquanto (while).ts
+ 2023-10-24 06:56:21,543-INFO-Done
+ 2023-10-24 06:56:21,560-INFO-There are 112 videos to convert.
+ 2023-10-24 06:56:21,561-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\4. Teste de mesa com estrutura repetitiva enquanto (720p).ts
+ 2023-10-24 06:56:21,561-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\4. Teste de mesa com estrutura repetitiva enquanto (720p).ts
+ 2023-10-24 06:56:24,026-INFO-Done
+ 2023-10-24 06:56:24,043-INFO-There are 111 videos to convert.
+ 2023-10-24 06:56:24,043-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\5. Exercícios de testes de mesa com while.ts
+ 2023-10-24 06:56:24,044-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\5. Exercícios de testes de mesa com while.ts
+ 2023-10-24 06:56:24,198-INFO-Done
+ 2023-10-24 06:56:24,215-INFO-There are 110 videos to convert.
+ 2023-10-24 06:56:24,215-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\6. Estrutura repetitiva para (for).ts
+ 2023-10-24 06:56:24,215-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\6. Estrutura repetitiva para (for).ts
+ 2023-10-24 06:56:27,783-INFO-Done
+ 2023-10-24 06:56:27,800-INFO-There are 109 videos to convert.
+ 2023-10-24 06:56:27,801-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\7. Teste de mesa com estrutura repetitiva para (720p).ts
+ 2023-10-24 06:56:27,801-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\7. Teste de mesa com estrutura repetitiva para (720p).ts
+ 2023-10-24 06:56:29,470-INFO-Done
+ 2023-10-24 06:56:29,487-INFO-There are 108 videos to convert.
+ 2023-10-24 06:56:29,487-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\8. Exercícios de testes de mesa com for.ts
+ 2023-10-24 06:56:29,487-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\8. Exercícios de testes de mesa com for.ts
+ 2023-10-24 06:56:29,652-INFO-Done
+ 2023-10-24 06:56:29,669-INFO-There are 107 videos to convert.
+ 2023-10-24 06:56:29,669-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\9. Estrutura repetitiva faça-enquanto.ts
+ 2023-10-24 06:56:29,669-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\9. Estrutura repetitiva faça-enquanto.ts
+ 2023-10-24 06:56:31,002-INFO-Done
+ 2023-10-24 06:56:31,019-INFO-There are 106 videos to convert.
+ 2023-10-24 06:56:31,019-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\10. Exercícios de fixação.ts
+ 2023-10-24 06:56:31,019-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\04. Estruturas repetitivas\10. Exercícios de fixação.ts
+ 2023-10-24 06:56:31,837-INFO-Done
+ 2023-10-24 06:56:31,854-INFO-There are 105 videos to convert.
+ 2023-10-24 06:56:31,855-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\05. Outros tópicos básicos em Java\1. Restrições e convenções para nomes.ts
+ 2023-10-24 06:56:31,855-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\05. Outros tópicos básicos em Java\1. Restrições e convenções para nomes.ts
+ 2023-10-24 06:56:32,165-INFO-Done
+ 2023-10-24 06:56:32,182-INFO-There are 104 videos to convert.
+ 2023-10-24 06:56:32,182-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\05. Outros tópicos básicos em Java\2. Comentários em Java (básico).ts
+ 2023-10-24 06:56:32,183-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\05. Outros tópicos básicos em Java\2. Comentários em Java (básico).ts
+ 2023-10-24 06:56:32,393-INFO-Done
+ 2023-10-24 06:56:32,410-INFO-There are 103 videos to convert.
+ 2023-10-24 06:56:32,411-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\05. Outros tópicos básicos em Java\3. Funções interessantes para String.ts
+ 2023-10-24 06:56:32,411-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\05. Outros tópicos básicos em Java\3. Funções interessantes para String.ts
+ 2023-10-24 06:56:34,930-INFO-Done
+ 2023-10-24 06:56:34,946-INFO-There are 102 videos to convert.
+ 2023-10-24 06:56:34,947-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\05. Outros tópicos básicos em Java\4. Funções (sintaxe).ts
+ 2023-10-24 06:56:34,947-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\05. Outros tópicos básicos em Java\4. Funções (sintaxe).ts
+ 2023-10-24 06:56:37,682-INFO-Done
+ 2023-10-24 06:56:37,699-INFO-There are 101 videos to convert.
+ 2023-10-24 06:56:37,699-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\1. Visão geral do capítulo.ts
+ 2023-10-24 06:56:37,700-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\1. Visão geral do capítulo.ts
+ 2023-10-24 06:56:37,849-INFO-Done
+ 2023-10-24 06:56:37,866-INFO-There are 100 videos to convert.
+ 2023-10-24 06:56:37,867-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\2. Resolvendo um problema sem orientacao a objetos.ts
+ 2023-10-24 06:56:37,867-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\2. Resolvendo um problema sem orientacao a objetos.ts
+ 2023-10-24 06:56:39,080-INFO-Done
+ 2023-10-24 06:56:39,097-INFO-There are 99 videos to convert.
+ 2023-10-24 06:56:39,098-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\3. Criando uma classe com três atributos para representar melhor o triângulo.ts
+ 2023-10-24 06:56:39,098-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\3. Criando uma classe com três atributos para representar melhor o triângulo.ts
+ 2023-10-24 06:56:41,538-INFO-Done
+ 2023-10-24 06:56:41,555-INFO-There are 98 videos to convert.
+ 2023-10-24 06:56:41,555-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\4. Criando um método para obtermos os benefícios de reaproveitamento e delegação.ts
+ 2023-10-24 06:56:41,555-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\4. Criando um método para obtermos os benefícios de reaproveitamento e delegação.ts
+ 2023-10-24 06:56:43,001-INFO-Done
+ 2023-10-24 06:56:43,018-INFO-There are 97 videos to convert.
+ 2023-10-24 06:56:43,018-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\5. Começando a resolver um segundo problema exemplo.ts
+ 2023-10-24 06:56:43,018-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\5. Começando a resolver um segundo problema exemplo.ts
+ 2023-10-24 06:56:44,707-INFO-Done
+ 2023-10-24 06:56:44,725-INFO-There are 96 videos to convert.
+ 2023-10-24 06:56:44,725-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\6. Object e toString.ts
+ 2023-10-24 06:56:44,725-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\6. Object e toString.ts
+ 2023-10-24 06:56:46,082-INFO-Done
+ 2023-10-24 06:56:46,104-INFO-There are 95 videos to convert.
+ 2023-10-24 06:56:46,105-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\7. Finalizando o programa.ts
+ 2023-10-24 06:56:46,105-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\7. Finalizando o programa.ts
+ 2023-10-24 06:56:47,245-INFO-Done
+ 2023-10-24 06:56:47,266-INFO-There are 94 videos to convert.
+ 2023-10-24 06:56:47,266-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\8. Exercícios de fixação.ts
+ 2023-10-24 06:56:47,268-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\8. Exercícios de fixação.ts
+ 2023-10-24 06:56:48,311-INFO-Done
+ 2023-10-24 06:56:48,329-INFO-There are 93 videos to convert.
+ 2023-10-24 06:56:48,330-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\9. Membros estáticos - Parte 1.ts
+ 2023-10-24 06:56:48,330-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\9. Membros estáticos - Parte 1.ts
+ 2023-10-24 06:56:49,990-INFO-Done
+ 2023-10-24 06:56:50,007-INFO-There are 92 videos to convert.
+ 2023-10-24 06:56:50,008-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\10. Membros estáticos - Parte 2.ts
+ 2023-10-24 06:56:50,008-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\10. Membros estáticos - Parte 2.ts
+ 2023-10-24 06:56:51,371-INFO-Done
+ 2023-10-24 06:56:51,388-INFO-There are 91 videos to convert.
+ 2023-10-24 06:56:51,389-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\11. Exercício de fixação.ts
+ 2023-10-24 06:56:51,389-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\06. Classes, atributos, métodos, static\11. Exercício de fixação.ts
+ 2023-10-24 06:56:51,524-INFO-Done
+ 2023-10-24 06:56:51,541-INFO-There are 90 videos to convert.
+ 2023-10-24 06:56:51,542-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\1. Visão geral do capítulo.ts
+ 2023-10-24 06:56:51,542-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\1. Visão geral do capítulo.ts
+ 2023-10-24 06:56:52,717-INFO-Done
+ 2023-10-24 06:56:52,734-INFO-There are 89 videos to convert.
+ 2023-10-24 06:56:52,734-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\2. Construtores.ts
+ 2023-10-24 06:56:52,734-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\2. Construtores.ts
+ 2023-10-24 06:56:54,042-INFO-Done
+ 2023-10-24 06:56:54,060-INFO-There are 88 videos to convert.
+ 2023-10-24 06:56:54,060-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\3. Palavra this.ts
+ 2023-10-24 06:56:54,061-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\3. Palavra this.ts
+ 2023-10-24 06:56:54,332-INFO-Done
+ 2023-10-24 06:56:54,350-INFO-There are 87 videos to convert.
+ 2023-10-24 06:56:54,350-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\4. Sobrecarga.ts
+ 2023-10-24 06:56:54,350-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\4. Sobrecarga.ts
+ 2023-10-24 06:56:55,140-INFO-Done
+ 2023-10-24 06:56:55,157-INFO-There are 86 videos to convert.
+ 2023-10-24 06:56:55,158-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\5. Encapsulamento.ts
+ 2023-10-24 06:56:55,158-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\5. Encapsulamento.ts
+ 2023-10-24 06:56:56,873-INFO-Done
+ 2023-10-24 06:56:56,891-INFO-There are 85 videos to convert.
+ 2023-10-24 06:56:56,892-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\6. Gerando automaticamente construtores, getters e setters com Eclipse.ts
+ 2023-10-24 06:56:56,892-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\6. Gerando automaticamente construtores, getters e setters com Eclipse.ts
+ 2023-10-24 06:56:58,002-INFO-Done
+ 2023-10-24 06:56:58,019-INFO-There are 84 videos to convert.
+ 2023-10-24 06:56:58,020-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\7. Modificadores de acesso.ts
+ 2023-10-24 06:56:58,020-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\7. Modificadores de acesso.ts
+ 2023-10-24 06:56:59,440-INFO-Done
+ 2023-10-24 06:56:59,458-INFO-There are 83 videos to convert.
+ 2023-10-24 06:56:59,458-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\8. Exercício de fixação.ts
+ 2023-10-24 06:56:59,459-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\8. Exercício de fixação.ts
+ 2023-10-24 06:56:59,649-INFO-Done
+ 2023-10-24 06:56:59,669-INFO-There are 82 videos to convert.
+ 2023-10-24 06:56:59,669-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\9. Correção do exercício de fixação - Parte 1.ts
+ 2023-10-24 06:56:59,669-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\9. Correção do exercício de fixação - Parte 1.ts
+ 2023-10-24 06:57:00,988-INFO-Done
+ 2023-10-24 06:57:01,006-INFO-There are 81 videos to convert.
+ 2023-10-24 06:57:01,006-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\10. Correção do exercício de fixação - Parte 2.ts
+ 2023-10-24 06:57:01,006-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\07. Construtores, this, sobrecarga, encapsulamento\10. Correção do exercício de fixação - Parte 2.ts
+ 2023-10-24 06:57:03,739-INFO-Done
+ 2023-10-24 06:57:03,756-INFO-There are 80 videos to convert.
+ 2023-10-24 06:57:03,756-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\1. Visão geral do capítulo.ts
+ 2023-10-24 06:57:03,757-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\1. Visão geral do capítulo.ts
+ 2023-10-24 06:57:04,857-INFO-Done
+ 2023-10-24 06:57:04,873-INFO-There are 79 videos to convert.
+ 2023-10-24 06:57:04,874-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\2. Tipos referência vs tipos valor.ts
+ 2023-10-24 06:57:04,874-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\2. Tipos referência vs tipos valor.ts
+ 2023-10-24 06:57:06,424-INFO-Done
+ 2023-10-24 06:57:06,442-INFO-There are 78 videos to convert.
+ 2023-10-24 06:57:06,442-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\3. Desalocação de memória - garbage collector e escopo local.ts
+ 2023-10-24 06:57:06,442-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\3. Desalocação de memória - garbage collector e escopo local.ts
+ 2023-10-24 06:57:07,224-INFO-Done
+ 2023-10-24 06:57:07,244-INFO-There are 77 videos to convert.
+ 2023-10-24 06:57:07,244-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\4. Vetores - Parte 1.ts
+ 2023-10-24 06:57:07,244-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\4. Vetores - Parte 1.ts
+ 2023-10-24 06:57:08,767-INFO-Done
+ 2023-10-24 06:57:08,789-INFO-There are 76 videos to convert.
+ 2023-10-24 06:57:08,790-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\5. Vetores - Parte 2.ts
+ 2023-10-24 06:57:08,790-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\5. Vetores - Parte 2.ts
+ 2023-10-24 06:57:10,488-INFO-Done
+ 2023-10-24 06:57:10,506-INFO-There are 75 videos to convert.
+ 2023-10-24 06:57:10,506-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\6. Exercícios de fixação sobre vetores.ts
+ 2023-10-24 06:57:10,507-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\6. Exercícios de fixação sobre vetores.ts
+ 2023-10-24 06:57:11,367-INFO-Done
+ 2023-10-24 06:57:11,386-INFO-There are 74 videos to convert.
+ 2023-10-24 06:57:11,386-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\7. Boxing, unboxing e wrapper classes.ts
+ 2023-10-24 06:57:11,386-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\7. Boxing, unboxing e wrapper classes.ts
+ 2023-10-24 06:57:11,888-INFO-Done
+ 2023-10-24 06:57:11,906-INFO-There are 73 videos to convert.
+ 2023-10-24 06:57:11,906-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\8. Laço for each.ts
+ 2023-10-24 06:57:11,907-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\8. Laço for each.ts
+ 2023-10-24 06:57:13,025-INFO-Done
+ 2023-10-24 06:57:13,041-INFO-There are 72 videos to convert.
+ 2023-10-24 06:57:13,042-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\9. Listas - Parte 1.ts
+ 2023-10-24 06:57:13,042-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\9. Listas - Parte 1.ts
+ 2023-10-24 06:57:13,986-INFO-Done
+ 2023-10-24 06:57:14,003-INFO-There are 71 videos to convert.
+ 2023-10-24 06:57:14,004-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\10. Listas - Parte 2.ts
+ 2023-10-24 06:57:14,004-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\10. Listas - Parte 2.ts
+ 2023-10-24 06:57:15,423-INFO-Done
+ 2023-10-24 06:57:15,449-INFO-There are 70 videos to convert.
+ 2023-10-24 06:57:15,449-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\11. Exercício de fixação sobre listas.ts
+ 2023-10-24 06:57:15,449-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\08. Memória, vetores, listas\11. Exercício de fixação sobre listas.ts
+ 2023-10-24 06:57:15,637-INFO-Done
+ 2023-10-24 06:57:15,655-INFO-There are 69 videos to convert.
+ 2023-10-24 06:57:15,655-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\09. Matrizes\1. Visão geral do capítulo.ts
+ 2023-10-24 06:57:15,656-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\09. Matrizes\1. Visão geral do capítulo.ts
+ 2023-10-24 06:57:15,752-INFO-Done
+ 2023-10-24 06:57:15,769-INFO-There are 68 videos to convert.
+ 2023-10-24 06:57:15,770-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\09. Matrizes\2. Matrizes.ts
+ 2023-10-24 06:57:15,770-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\09. Matrizes\2. Matrizes.ts
+ 2023-10-24 06:57:16,985-INFO-Done
+ 2023-10-24 06:57:17,003-INFO-There are 67 videos to convert.
+ 2023-10-24 06:57:17,003-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\09. Matrizes\3. Exercício resolvido.ts
+ 2023-10-24 06:57:17,004-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\09. Matrizes\3. Exercício resolvido.ts
+ 2023-10-24 06:57:19,896-INFO-Done
+ 2023-10-24 06:57:19,913-INFO-There are 66 videos to convert.
+ 2023-10-24 06:57:19,914-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\09. Matrizes\4. Exercícios de fixação.ts
+ 2023-10-24 06:57:19,914-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\09. Matrizes\4. Exercícios de fixação.ts
+ 2023-10-24 06:57:20,059-INFO-Done
+ 2023-10-24 06:57:20,077-INFO-There are 65 videos to convert.
+ 2023-10-24 06:57:20,077-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\1. Introdução a data-hora e duração.ts
+ 2023-10-24 06:57:20,078-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\1. Introdução a data-hora e duração.ts
+ 2023-10-24 06:57:21,448-INFO-Done
+ 2023-10-24 06:57:21,466-INFO-There are 64 videos to convert.
+ 2023-10-24 06:57:21,467-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\2. Entendendo Timezone (fuso horário).ts
+ 2023-10-24 06:57:21,467-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\2. Entendendo Timezone (fuso horário).ts
+ 2023-10-24 06:57:22,623-INFO-Done
+ 2023-10-24 06:57:22,641-INFO-There are 63 videos to convert.
+ 2023-10-24 06:57:22,641-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\3. Padrão ISO 8601.ts
+ 2023-10-24 06:57:22,641-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\3. Padrão ISO 8601.ts
+ 2023-10-24 06:57:23,081-INFO-Done
+ 2023-10-24 06:57:23,099-INFO-There are 62 videos to convert.
+ 2023-10-24 06:57:23,100-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\4. Operações importantes com data-hora.ts
+ 2023-10-24 06:57:23,100-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\4. Operações importantes com data-hora.ts
+ 2023-10-24 06:57:25,510-INFO-Done
+ 2023-10-24 06:57:25,531-INFO-There are 61 videos to convert.
+ 2023-10-24 06:57:25,532-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\5. Instanciando data-hora em Java.ts
+ 2023-10-24 06:57:25,532-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\5. Instanciando data-hora em Java.ts
+ 2023-10-24 06:57:30,618-INFO-Done
+ 2023-10-24 06:57:30,636-INFO-There are 60 videos to convert.
+ 2023-10-24 06:57:30,637-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\6. Convertendo data-hora para texto.ts
+ 2023-10-24 06:57:30,637-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\6. Convertendo data-hora para texto.ts
+ 2023-10-24 06:57:36,234-INFO-Done
+ 2023-10-24 06:57:36,252-INFO-There are 59 videos to convert.
+ 2023-10-24 06:57:36,252-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\7. Convertendo data-hora global para local, obtendo dados.ts
+ 2023-10-24 06:57:36,253-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\7. Convertendo data-hora global para local, obtendo dados.ts
+ 2023-10-24 06:57:39,199-INFO-Done
+ 2023-10-24 06:57:39,217-INFO-There are 58 videos to convert.
+ 2023-10-24 06:57:39,217-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\8. Cálculos com data-hora.ts
+ 2023-10-24 06:57:39,218-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\10. Trabalhando com datas\8. Cálculos com data-hora.ts
+ 2023-10-24 06:57:43,944-INFO-Done
+ 2023-10-24 06:57:43,961-INFO-There are 57 videos to convert.
+ 2023-10-24 06:57:43,961-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\1. Visão geral do capítulo.ts
+ 2023-10-24 06:57:43,962-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\1. Visão geral do capítulo.ts
+ 2023-10-24 06:57:44,408-INFO-Done
+ 2023-10-24 06:57:44,426-INFO-There are 56 videos to convert.
+ 2023-10-24 06:57:44,427-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\2. Enumerações.ts
+ 2023-10-24 06:57:44,427-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\2. Enumerações.ts
+ 2023-10-24 06:57:45,825-INFO-Done
+ 2023-10-24 06:57:45,844-INFO-There are 55 videos to convert.
+ 2023-10-24 06:57:45,845-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\3. Vamos falar um pouco de design.ts
+ 2023-10-24 06:57:45,845-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\3. Vamos falar um pouco de design.ts
+ 2023-10-24 06:57:46,979-INFO-Done
+ 2023-10-24 06:57:46,997-INFO-There are 54 videos to convert.
+ 2023-10-24 06:57:46,997-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\4. Composição.ts
+ 2023-10-24 06:57:46,997-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\4. Composição.ts
+ 2023-10-24 06:57:47,339-INFO-Done
+ 2023-10-24 06:57:47,356-INFO-There are 53 videos to convert.
+ 2023-10-24 06:57:47,356-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\5. Exerício resolvido 1 - Parte 1.ts
+ 2023-10-24 06:57:47,357-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\5. Exerício resolvido 1 - Parte 1.ts
+ 2023-10-24 06:57:51,472-INFO-Done
+ 2023-10-24 06:57:51,490-INFO-There are 52 videos to convert.
+ 2023-10-24 06:57:51,490-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\6. Exerício resolvido 1 - Parte 2.ts
+ 2023-10-24 06:57:51,491-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\6. Exerício resolvido 1 - Parte 2.ts
+ 2023-10-24 06:57:55,024-INFO-Done
+ 2023-10-24 06:57:55,041-INFO-There are 51 videos to convert.
+ 2023-10-24 06:57:55,042-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\7. Exercício resolvido 2.ts
+ 2023-10-24 06:57:55,042-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\7. Exercício resolvido 2.ts
+ 2023-10-24 06:57:59,576-INFO-Done
+ 2023-10-24 06:57:59,593-INFO-There are 50 videos to convert.
+ 2023-10-24 06:57:59,594-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\8. Exercício proposto.ts
+ 2023-10-24 06:57:59,594-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\11. Enumerações e Composição\8. Exercício proposto.ts
+ 2023-10-24 06:58:00,559-INFO-Done
+ 2023-10-24 06:58:00,579-INFO-There are 49 videos to convert.
+ 2023-10-24 06:58:00,579-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\1. Visão geral do capítulo.ts
+ 2023-10-24 06:58:00,580-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\1. Visão geral do capítulo.ts
+ 2023-10-24 06:58:00,715-INFO-Done
+ 2023-10-24 06:58:00,732-INFO-There are 48 videos to convert.
+ 2023-10-24 06:58:00,733-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\2. Herança.ts
+ 2023-10-24 06:58:00,733-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\2. Herança.ts
+ 2023-10-24 06:58:02,322-INFO-Done
+ 2023-10-24 06:58:02,339-INFO-There are 47 videos to convert.
+ 2023-10-24 06:58:02,339-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\3. Upcasting e downcasting.ts
+ 2023-10-24 06:58:02,339-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\3. Upcasting e downcasting.ts
+ 2023-10-24 06:58:05,952-INFO-Done
+ 2023-10-24 06:58:05,971-INFO-There are 46 videos to convert.
+ 2023-10-24 06:58:05,971-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\4. Sobreposição, palavra super, anotação @Override.ts
+ 2023-10-24 06:58:05,972-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\4. Sobreposição, palavra super, anotação @Override.ts
+ 2023-10-24 06:58:07,757-INFO-Done
+ 2023-10-24 06:58:07,775-INFO-There are 45 videos to convert.
+ 2023-10-24 06:58:07,775-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\5. Classes e métodos final.ts
+ 2023-10-24 06:58:07,776-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\5. Classes e métodos final.ts
+ 2023-10-24 06:58:09,793-INFO-Done
+ 2023-10-24 06:58:09,810-INFO-There are 44 videos to convert.
+ 2023-10-24 06:58:09,810-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\6. Introdução ao polimorfismo.ts
+ 2023-10-24 06:58:09,810-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\6. Introdução ao polimorfismo.ts
+ 2023-10-24 06:58:10,322-INFO-Done
+ 2023-10-24 06:58:10,339-INFO-There are 43 videos to convert.
+ 2023-10-24 06:58:10,339-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\7. Exercício resolvido.ts
+ 2023-10-24 06:58:10,339-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\7. Exercício resolvido.ts
+ 2023-10-24 06:58:13,274-INFO-Done
+ 2023-10-24 06:58:13,291-INFO-There are 42 videos to convert.
+ 2023-10-24 06:58:13,291-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\8. Exercício de fixação.ts
+ 2023-10-24 06:58:13,291-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\8. Exercício de fixação.ts
+ 2023-10-24 06:58:14,349-INFO-Done
+ 2023-10-24 06:58:14,365-INFO-There are 41 videos to convert.
+ 2023-10-24 06:58:14,366-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\9. Classes abstratas.ts
+ 2023-10-24 06:58:14,366-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\9. Classes abstratas.ts
+ 2023-10-24 06:58:16,013-INFO-Done
+ 2023-10-24 06:58:16,031-INFO-There are 40 videos to convert.
+ 2023-10-24 06:58:16,031-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\10. Métodos abstratos.ts
+ 2023-10-24 06:58:16,032-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\10. Métodos abstratos.ts
+ 2023-10-24 06:58:18,821-INFO-Done
+ 2023-10-24 06:58:18,847-INFO-There are 39 videos to convert.
+ 2023-10-24 06:58:18,848-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\11. Exercício de fixação.ts
+ 2023-10-24 06:58:18,848-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\1. Java Essential\12. Herança e Polimorfismo\11. Exercício de fixação.ts
+ 2023-10-24 06:58:20,125-INFO-Done
+ 2023-10-24 06:58:20,142-INFO-There are 38 videos to convert.
+ 2023-10-24 06:58:20,143-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\1. Boas-vindas ao bônus Intensivão Java Spring DSList.ts
+ 2023-10-24 06:58:20,143-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\1. Boas-vindas ao bônus Intensivão Java Spring DSList.ts
+ 2023-10-24 06:58:21,336-INFO-Done
+ 2023-10-24 06:58:21,353-INFO-There are 37 videos to convert.
+ 2023-10-24 06:58:21,354-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\1. Intensivão Java Spring DSList Aula 1.ts
+ 2023-10-24 06:58:21,354-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\1. Intensivão Java Spring DSList Aula 1.ts
+ 2023-10-24 06:58:59,599-INFO-Done
+ 2023-10-24 06:58:59,617-INFO-There are 36 videos to convert.
+ 2023-10-24 06:58:59,617-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\2. Intensivão Java Spring DSList Aula 2.ts
+ 2023-10-24 06:58:59,618-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\2. Intensivão Java Spring DSList Aula 2.ts
+ 2023-10-24 06:59:33,693-INFO-Done
+ 2023-10-24 06:59:33,711-INFO-There are 35 videos to convert.
+ 2023-10-24 06:59:33,711-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\3. Intensivão Java Spring DSList Aula 3.ts
+ 2023-10-24 06:59:33,711-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\3. Intensivão Java Spring DSList Aula 3.ts
+ 2023-10-24 06:59:58,325-INFO-Done
+ 2023-10-24 06:59:58,413-INFO-There are 34 videos to convert.
+ 2023-10-24 06:59:58,414-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\4. Intensivão Java Spring DSList Aula 4.ts
+ 2023-10-24 06:59:58,414-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\4. Intensivão Java Spring DSList Aula 4.ts
+ 2023-10-24 07:00:24,613-INFO-Done
+ 2023-10-24 07:00:24,631-INFO-There are 33 videos to convert.
+ 2023-10-24 07:00:24,632-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\5. Intensivão Java Spring DSList Aula 5.ts
+ 2023-10-24 07:00:24,632-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\3. Intensivão Java Spring\5. Intensivão Java Spring DSList Aula 5.ts
+ 2023-10-24 07:00:52,698-INFO-Done
+ 2023-10-24 07:00:52,717-INFO-There are 32 videos to convert.
+ 2023-10-24 07:00:52,718-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\1. Baixe aqui o material de apoio.ts
+ 2023-10-24 07:00:52,718-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\1. Baixe aqui o material de apoio.ts
+ 2023-10-24 07:00:53,748-INFO-Done
+ 2023-10-24 07:00:53,765-INFO-There are 31 videos to convert.
+ 2023-10-24 07:00:53,765-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\2. Visão geral do capítulo Modelo Conceitual.ts
+ 2023-10-24 07:00:53,765-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\2. Visão geral do capítulo Modelo Conceitual.ts
+ 2023-10-24 07:00:54,065-INFO-Done
+ 2023-10-24 07:00:54,084-INFO-There are 30 videos to convert.
+ 2023-10-24 07:00:54,084-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\3. Modelo conceitual, conceitos e atributos.ts
+ 2023-10-24 07:00:54,084-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\3. Modelo conceitual, conceitos e atributos.ts
+ 2023-10-24 07:00:56,896-INFO-Done
+ 2023-10-24 07:00:56,914-INFO-There are 29 videos to convert.
+ 2023-10-24 07:00:56,914-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\4. Como identificar conceitos.ts
+ 2023-10-24 07:00:56,914-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\4. Como identificar conceitos.ts
+ 2023-10-24 07:00:59,346-INFO-Done
+ 2023-10-24 07:00:59,364-INFO-There are 28 videos to convert.
+ 2023-10-24 07:00:59,365-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\5. Exercícios de fixação.ts
+ 2023-10-24 07:00:59,365-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\5. Exercícios de fixação.ts
+ 2023-10-24 07:01:02,370-INFO-Done
+ 2023-10-24 07:01:02,387-INFO-There are 27 videos to convert.
+ 2023-10-24 07:01:02,388-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\6. Correção do exercício 2.ts
+ 2023-10-24 07:01:02,388-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\6. Correção do exercício 2.ts
+ 2023-10-24 07:01:04,951-INFO-Done
+ 2023-10-24 07:01:04,969-INFO-There are 26 videos to convert.
+ 2023-10-24 07:01:04,969-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\7. Correção do exercício 3.ts
+ 2023-10-24 07:01:04,969-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\7. Correção do exercício 3.ts
+ 2023-10-24 07:01:07,732-INFO-Done
+ 2023-10-24 07:01:07,800-INFO-There are 25 videos to convert.
+ 2023-10-24 07:01:07,801-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\8. Associações.ts
+ 2023-10-24 07:01:07,801-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\8. Associações.ts
+ 2023-10-24 07:01:08,871-INFO-Done
+ 2023-10-24 07:01:08,888-INFO-There are 24 videos to convert.
+ 2023-10-24 07:01:08,889-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\9. Multiplicidade de papéis.ts
+ 2023-10-24 07:01:08,889-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\9. Multiplicidade de papéis.ts
+ 2023-10-24 07:01:10,092-INFO-Done
+ 2023-10-24 07:01:10,109-INFO-There are 23 videos to convert.
+ 2023-10-24 07:01:10,109-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\10. Conceito dependente, associações obrigatórias, múltiplas e autoassociações.ts
+ 2023-10-24 07:01:10,110-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\10. Conceito dependente, associações obrigatórias, múltiplas e autoassociações.ts
+ 2023-10-24 07:01:11,268-INFO-Done
+ 2023-10-24 07:01:11,285-INFO-There are 22 videos to convert.
+ 2023-10-24 07:01:11,286-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\11. Desenhando instâncias com o diagrama de objetos da UML.ts
+ 2023-10-24 07:01:11,286-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\11. Desenhando instâncias com o diagrama de objetos da UML.ts
+ 2023-10-24 07:01:13,001-INFO-Done
+ 2023-10-24 07:01:13,018-INFO-There are 21 videos to convert.
+ 2023-10-24 07:01:13,019-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\12. Exercício resolvido 01.ts
+ 2023-10-24 07:01:13,019-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\12. Exercício resolvido 01.ts
+ 2023-10-24 07:01:18,343-INFO-Done
+ 2023-10-24 07:01:18,378-INFO-There are 20 videos to convert.
+ 2023-10-24 07:01:18,379-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\13. Exercício resolvido 02.ts
+ 2023-10-24 07:01:18,379-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\13. Exercício resolvido 02.ts
+ 2023-10-24 07:01:21,094-INFO-Done
+ 2023-10-24 07:01:21,115-INFO-There are 19 videos to convert.
+ 2023-10-24 07:01:21,115-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\14. Correção do exercício 03.ts
+ 2023-10-24 07:01:21,115-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\14. Correção do exercício 03.ts
+ 2023-10-24 07:01:24,131-INFO-Done
+ 2023-10-24 07:01:24,148-INFO-There are 18 videos to convert.
+ 2023-10-24 07:01:24,149-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\15. Correção do exercício 04.ts
+ 2023-10-24 07:01:24,149-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\15. Correção do exercício 04.ts
+ 2023-10-24 07:01:26,672-INFO-Done
+ 2023-10-24 07:01:26,689-INFO-There are 17 videos to convert.
+ 2023-10-24 07:01:26,690-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\16. Correção do exercício 05.ts
+ 2023-10-24 07:01:26,690-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\16. Correção do exercício 05.ts
+ 2023-10-24 07:01:29,572-INFO-Done
+ 2023-10-24 07:01:29,589-INFO-There are 16 videos to convert.
+ 2023-10-24 07:01:29,590-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\17. Associações todo-parte.ts
+ 2023-10-24 07:01:29,590-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\17. Associações todo-parte.ts
+ 2023-10-24 07:01:30,846-INFO-Done
+ 2023-10-24 07:01:30,863-INFO-There are 15 videos to convert.
+ 2023-10-24 07:01:30,863-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\18. Classe de associação.ts
+ 2023-10-24 07:01:30,864-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\18. Classe de associação.ts
+ 2023-10-24 07:01:32,971-INFO-Done
+ 2023-10-24 07:01:32,990-INFO-There are 14 videos to convert.
+ 2023-10-24 07:01:32,991-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\19. Exercício resolvido 01 - Parte 1.ts
+ 2023-10-24 07:01:32,991-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\19. Exercício resolvido 01 - Parte 1.ts
+ 2023-10-24 07:01:35,008-INFO-Done
+ 2023-10-24 07:01:35,028-INFO-There are 13 videos to convert.
+ 2023-10-24 07:01:35,029-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\20. Exercício resolvido 01 - Parte 2.ts
+ 2023-10-24 07:01:35,029-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\20. Exercício resolvido 01 - Parte 2.ts
+ 2023-10-24 07:01:37,512-INFO-Done
+ 2023-10-24 07:01:37,531-INFO-There are 12 videos to convert.
+ 2023-10-24 07:01:37,531-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\21. Exercício resolvido 01 - Parte 3.ts
+ 2023-10-24 07:01:37,531-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\21. Exercício resolvido 01 - Parte 3.ts
+ 2023-10-24 07:01:40,172-INFO-Done
+ 2023-10-24 07:01:40,191-INFO-There are 11 videos to convert.
+ 2023-10-24 07:01:40,191-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\22. Correção do exercício 02.ts
+ 2023-10-24 07:01:40,192-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\22. Correção do exercício 02.ts
+ 2023-10-24 07:01:42,888-INFO-Done
+ 2023-10-24 07:01:42,905-INFO-There are 10 videos to convert.
+ 2023-10-24 07:01:42,906-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\23. Correção do exercício 03.ts
+ 2023-10-24 07:01:42,906-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\23. Correção do exercício 03.ts
+ 2023-10-24 07:01:45,800-INFO-Done
+ 2023-10-24 07:01:45,818-INFO-There are 9 videos to convert.
+ 2023-10-24 07:01:45,818-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\24. Enumerações e tipos primitivos.ts
+ 2023-10-24 07:01:45,819-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\24. Enumerações e tipos primitivos.ts
+ 2023-10-24 07:01:48,006-INFO-Done
+ 2023-10-24 07:01:48,024-INFO-There are 8 videos to convert.
+ 2023-10-24 07:01:48,024-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\25. Herança - Parte 1.ts
+ 2023-10-24 07:01:48,024-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\25. Herança - Parte 1.ts
+ 2023-10-24 07:01:49,965-INFO-Done
+ 2023-10-24 07:01:49,982-INFO-There are 7 videos to convert.
+ 2023-10-24 07:01:49,982-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\26. Herança - Parte 2.ts
+ 2023-10-24 07:01:49,982-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\26. Herança - Parte 2.ts
+ 2023-10-24 07:01:51,580-INFO-Done
+ 2023-10-24 07:01:51,598-INFO-There are 6 videos to convert.
+ 2023-10-24 07:01:51,598-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\27. Exercício resolvido 01 - Parte 1.ts
+ 2023-10-24 07:01:51,598-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\27. Exercício resolvido 01 - Parte 1.ts
+ 2023-10-24 07:01:53,997-INFO-Done
+ 2023-10-24 07:01:54,015-INFO-There are 5 videos to convert.
+ 2023-10-24 07:01:54,015-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\28. Exercício resolvido 01 - Parte 2.ts
+ 2023-10-24 07:01:54,015-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\28. Exercício resolvido 01 - Parte 2.ts
+ 2023-10-24 07:01:56,851-INFO-Done
+ 2023-10-24 07:01:56,869-INFO-There are 4 videos to convert.
+ 2023-10-24 07:01:56,869-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\29. Exercício resolvido 01 - Parte 3.ts
+ 2023-10-24 07:01:56,869-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\29. Exercício resolvido 01 - Parte 3.ts
+ 2023-10-24 07:01:58,949-INFO-Done
+ 2023-10-24 07:01:58,966-INFO-There are 3 videos to convert.
+ 2023-10-24 07:01:58,967-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\30. Correção do exercício 02 - Parte 1.ts
+ 2023-10-24 07:01:58,967-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\30. Correção do exercício 02 - Parte 1.ts
+ 2023-10-24 07:02:02,109-INFO-Done
+ 2023-10-24 07:02:02,126-INFO-There are 2 videos to convert.
+ 2023-10-24 07:02:02,127-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\31. Correção do exercício 02 - Parte 2.ts
+ 2023-10-24 07:02:02,127-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\31. Correção do exercício 02 - Parte 2.ts
+ 2023-10-24 07:02:04,821-INFO-Done
+ 2023-10-24 07:02:04,863-INFO-There are 1 videos to convert.
+ 2023-10-24 07:02:04,864-INFO-Start conversion without reencode: aac-h264-mpegts | D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\32. Correção do exercício 03.ts
+ 2023-10-24 07:02:04,864-INFO-Convert video extension without reencode: D:\Nélio Alves Dev Superior\4. Modelagem de Dados Conceitual\32. Correção do exercício 03.ts
+ 2023-10-24 07:02:09,094-INFO-Done
+ 2023-10-24 07:02:09,111-INFO-There are no videos to convert
